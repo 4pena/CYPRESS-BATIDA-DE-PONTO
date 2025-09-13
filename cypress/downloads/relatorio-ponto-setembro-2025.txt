@@ -84,7 +84,7 @@
 ║                                 OBSERVAÇÕES                                    ║
 ╚════════════════════════════════════════════════════════════════════════════════╝
 
-• Este relatório foi gerado automaticamente em 13/09/2025, 18:43:50
+• Este relatório foi gerado automaticamente em 13/09/2025, 19:57:05
 • Considera apenas dias úteis (segunda a sexta-feira)
 • Todos os dias úteis são exibidos, incluindo folgas e erros
 • Dias sem batidas são considerados ERROS, não folgas
