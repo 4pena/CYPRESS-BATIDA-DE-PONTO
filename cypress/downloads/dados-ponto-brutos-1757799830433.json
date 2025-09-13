@@ -1,0 +1,4308 @@
+{
+  "endpoint": "https://pontowebapp.secullum.com.br/76863/Batidas/2025-09-01/2025-09-30",
+  "periodo": "2025-09-01 até 2025-09-30",
+  "dados": [
+    {
+      "erros": [],
+      "totais": [
+        {
+          "nome": "Folga",
+          "nomeOriginal": "Folga",
+          "valor": "00:00"
+        },
+        {
+          "nome": "Saldo",
+          "nomeOriginal": "Saldo",
+          "valor": "-45:15"
+        }
+      ],
+      "lista": [
+        {
+          "id": 33731,
+          "data": "2025-09-01T00:00:00",
+          "funcionarioNome": "MARIO ALVES DE SOUZA CARVALHO",
+          "batidas": [
+            {
+              "nome": "Entrada 1",
+              "valor": "",
+              "valorOriginal": null,
+              "ehRepP": false,
+              "geolocalizacao": null
+            },
+            {
+              "nome": "Saída 1",
+              "valor": "",
+              "valorOriginal": null,
+              "ehRepP": false,
+              "geolocalizacao": null
+            },
+            {
+              "nome": "Entrada 2",
+              "valor": "",
+              "valorOriginal": null,
+              "ehRepP": false,
+              "geolocalizacao": null
+            },
+            {
+              "nome": "Saída 2",
+              "valor": "",
+              "valorOriginal": null,
+              "ehRepP": false,
+              "geolocalizacao": null
+            },
+            {
+              "nome": "Entrada 3",
+              "valor": "",
+              "valorOriginal": null,
+              "ehRepP": false,
+              "geolocalizacao": null
+            },
+            {
+              "nome": "Saída 3",
+              "valor": "",
+              "valorOriginal": null,
+              "ehRepP": false,
+              "geolocalizacao": null
+            }
+          ],
+          "valores": [
+            {
+              "nome": "Folga",
+              "nomeOriginal": "Folga",
+              "valor": ""
+            },
+            {
+              "nome": "Saldo",
+              "nomeOriginal": "Saldo",
+              "valor": "-09:03"
+            }
+          ],
+          "saldo": "-09:03",
+          "situacao": 2,
+          "registroPendente": false,
+          "existePeriodoEncerrado": false
+        },
+        {
+          "id": 33893,
+          "data": "2025-09-02T00:00:00",
+          "funcionarioNome": "MARIO ALVES DE SOUZA CARVALHO",
+          "batidas": [
+            {
+              "nome": "Entrada 1",
+              "valor": "",
+              "valorOriginal": null,
+              "ehRepP": false,
+              "geolocalizacao": null
+            },
+            {
+              "nome": "Saída 1",
+              "valor": "",
+              "valorOriginal": null,
+              "ehRepP": false,
+              "geolocalizacao": null
+            },
+            {
+              "nome": "Entrada 2",
+              "valor": "",
+              "valorOriginal": null,
+              "ehRepP": false,
+              "geolocalizacao": null
+            },
+            {
+              "nome": "Saída 2",
+              "valor": "",
+              "valorOriginal": null,
+              "ehRepP": false,
+              "geolocalizacao": null
+            },
+            {
+              "nome": "Entrada 3",
+              "valor": "",
+              "valorOriginal": null,
+              "ehRepP": false,
+              "geolocalizacao": null
+            },
+            {
+              "nome": "Saída 3",
+              "valor": "",
+              "valorOriginal": null,
+              "ehRepP": false,
+              "geolocalizacao": null
+            }
+          ],
+          "valores": [
+            {
+              "nome": "Folga",
+              "nomeOriginal": "Folga",
+              "valor": ""
+            },
+            {
+              "nome": "Saldo",
+              "nomeOriginal": "Saldo",
+              "valor": "-09:03"
+            }
+          ],
+          "saldo": "-09:03",
+          "situacao": 2,
+          "registroPendente": false,
+          "existePeriodoEncerrado": false
+        },
+        {
+          "id": 34027,
+          "data": "2025-09-03T00:00:00",
+          "funcionarioNome": "MARIO ALVES DE SOUZA CARVALHO",
+          "batidas": [
+            {
+              "nome": "Entrada 1",
+              "valor": "",
+              "valorOriginal": null,
+              "ehRepP": false,
+              "geolocalizacao": null
+            },
+            {
+              "nome": "Saída 1",
+              "valor": "",
+              "valorOriginal": null,
+              "ehRepP": false,
+              "geolocalizacao": null
+            },
+            {
+              "nome": "Entrada 2",
+              "valor": "",
+              "valorOriginal": null,
+              "ehRepP": false,
+              "geolocalizacao": null
+            },
+            {
+              "nome": "Saída 2",
+              "valor": "",
+              "valorOriginal": null,
+              "ehRepP": false,
+              "geolocalizacao": null
+            },
+            {
+              "nome": "Entrada 3",
+              "valor": "",
+              "valorOriginal": null,
+              "ehRepP": false,
+              "geolocalizacao": null
+            },
+            {
+              "nome": "Saída 3",
+              "valor": "",
+              "valorOriginal": null,
+              "ehRepP": false,
+              "geolocalizacao": null
+            }
+          ],
+          "valores": [
+            {
+              "nome": "Folga",
+              "nomeOriginal": "Folga",
+              "valor": ""
+            },
+            {
+              "nome": "Saldo",
+              "nomeOriginal": "Saldo",
+              "valor": "-09:03"
+            }
+          ],
+          "saldo": "-09:03",
+          "situacao": 2,
+          "registroPendente": false,
+          "existePeriodoEncerrado": false
+        },
+        {
+          "id": 34313,
+          "data": "2025-09-04T00:00:00",
+          "funcionarioNome": "MARIO ALVES DE SOUZA CARVALHO",
+          "batidas": [
+            {
+              "nome": "Entrada 1",
+              "valor": "",
+              "valorOriginal": null,
+              "ehRepP": false,
+              "geolocalizacao": null
+            },
+            {
+              "nome": "Saída 1",
+              "valor": "",
+              "valorOriginal": null,
+              "ehRepP": false,
+              "geolocalizacao": null
+            },
+            {
+              "nome": "Entrada 2",
+              "valor": "",
+              "valorOriginal": null,
+              "ehRepP": false,
+              "geolocalizacao": null
+            },
+            {
+              "nome": "Saída 2",
+              "valor": "",
+              "valorOriginal": null,
+              "ehRepP": false,
+              "geolocalizacao": null
+            },
+            {
+              "nome": "Entrada 3",
+              "valor": "",
+              "valorOriginal": null,
+              "ehRepP": false,
+              "geolocalizacao": null
+            },
+            {
+              "nome": "Saída 3",
+              "valor": "",
+              "valorOriginal": null,
+              "ehRepP": false,
+              "geolocalizacao": null
+            }
+          ],
+          "valores": [
+            {
+              "nome": "Folga",
+              "nomeOriginal": "Folga",
+              "valor": ""
+            },
+            {
+              "nome": "Saldo",
+              "nomeOriginal": "Saldo",
+              "valor": "-09:03"
+            }
+          ],
+          "saldo": "-09:03",
+          "situacao": 2,
+          "registroPendente": false,
+          "existePeriodoEncerrado": false
+        },
+        {
+          "id": 34314,
+          "data": "2025-09-05T00:00:00",
+          "funcionarioNome": "MARIO ALVES DE SOUZA CARVALHO",
+          "batidas": [
+            {
+              "nome": "Entrada 1",
+              "valor": "",
+              "valorOriginal": null,
+              "ehRepP": false,
+              "geolocalizacao": null
+            },
+            {
+              "nome": "Saída 1",
+              "valor": "",
+              "valorOriginal": null,
+              "ehRepP": false,
+              "geolocalizacao": null
+            },
+            {
+              "nome": "Entrada 2",
+              "valor": "",
+              "valorOriginal": null,
+              "ehRepP": false,
+              "geolocalizacao": null
+            },
+            {
+              "nome": "Saída 2",
+              "valor": "",
+              "valorOriginal": null,
+              "ehRepP": false,
+              "geolocalizacao": null
+            },
+            {
+              "nome": "Entrada 3",
+              "valor": "",
+              "valorOriginal": null,
+              "ehRepP": false,
+              "geolocalizacao": null
+            },
+            {
+              "nome": "Saída 3",
+              "valor": "",
+              "valorOriginal": null,
+              "ehRepP": false,
+              "geolocalizacao": null
+            }
+          ],
+          "valores": [
+            {
+              "nome": "Folga",
+              "nomeOriginal": "Folga",
+              "valor": ""
+            },
+            {
+              "nome": "Saldo",
+              "nomeOriginal": "Saldo",
+              "valor": "-09:03"
+            }
+          ],
+          "saldo": "-09:03",
+          "situacao": 2,
+          "registroPendente": false,
+          "existePeriodoEncerrado": false
+        },
+        {
+          "id": 34382,
+          "data": "2025-09-06T00:00:00",
+          "funcionarioNome": "MARIO ALVES DE SOUZA CARVALHO",
+          "batidas": [
+            {
+              "nome": "Entrada 1",
+              "valor": "",
+              "valorOriginal": null,
+              "ehRepP": false,
+              "geolocalizacao": null
+            },
+            {
+              "nome": "Saída 1",
+              "valor": "",
+              "valorOriginal": null,
+              "ehRepP": false,
+              "geolocalizacao": null
+            },
+            {
+              "nome": "Entrada 2",
+              "valor": "",
+              "valorOriginal": null,
+              "ehRepP": false,
+              "geolocalizacao": null
+            },
+            {
+              "nome": "Saída 2",
+              "valor": "",
+              "valorOriginal": null,
+              "ehRepP": false,
+              "geolocalizacao": null
+            },
+            {
+              "nome": "Entrada 3",
+              "valor": "",
+              "valorOriginal": null,
+              "ehRepP": false,
+              "geolocalizacao": null
+            },
+            {
+              "nome": "Saída 3",
+              "valor": "",
+              "valorOriginal": null,
+              "ehRepP": false,
+              "geolocalizacao": null
+            }
+          ],
+          "valores": [
+            {
+              "nome": "Folga",
+              "nomeOriginal": "Folga",
+              "valor": ""
+            },
+            {
+              "nome": "Saldo",
+              "nomeOriginal": "Saldo",
+              "valor": ""
+            }
+          ],
+          "saldo": "+00:00",
+          "situacao": 0,
+          "registroPendente": false,
+          "existePeriodoEncerrado": false
+        },
+        {
+          "id": 34388,
+          "data": "2025-09-07T00:00:00",
+          "funcionarioNome": "MARIO ALVES DE SOUZA CARVALHO",
+          "batidas": [
+            {
+              "nome": "Entrada 1",
+              "valor": "",
+              "valorOriginal": null,
+              "ehRepP": false,
+              "geolocalizacao": null
+            },
+            {
+              "nome": "Saída 1",
+              "valor": "",
+              "valorOriginal": null,
+              "ehRepP": false,
+              "geolocalizacao": null
+            },
+            {
+              "nome": "Entrada 2",
+              "valor": "",
+              "valorOriginal": null,
+              "ehRepP": false,
+              "geolocalizacao": null
+            },
+            {
+              "nome": "Saída 2",
+              "valor": "",
+              "valorOriginal": null,
+              "ehRepP": false,
+              "geolocalizacao": null
+            },
+            {
+              "nome": "Entrada 3",
+              "valor": "",
+              "valorOriginal": null,
+              "ehRepP": false,
+              "geolocalizacao": null
+            },
+            {
+              "nome": "Saída 3",
+              "valor": "",
+              "valorOriginal": null,
+              "ehRepP": false,
+              "geolocalizacao": null
+            }
+          ],
+          "valores": [
+            {
+              "nome": "Folga",
+              "nomeOriginal": "Folga",
+              "valor": ""
+            },
+            {
+              "nome": "Saldo",
+              "nomeOriginal": "Saldo",
+              "valor": ""
+            }
+          ],
+          "saldo": "+00:00",
+          "situacao": 0,
+          "registroPendente": false,
+          "existePeriodoEncerrado": false
+        },
+        {
+          "id": 34231,
+          "data": "2025-09-08T00:00:00",
+          "funcionarioNome": "MARIO ALVES DE SOUZA CARVALHO",
+          "batidas": [
+            {
+              "nome": "Entrada 1",
+              "valor": "07:05",
+              "valorOriginal": "07:05",
+              "ehRepP": true,
+              "geolocalizacao": {
+                "latitude": -23.1178536,
+                "longitude": -47.2533109,
+                "precisao": 19.850000381469727,
+                "endereco": "Rua Nelson Bitto, Indaiatuba, São Paulo, Brasil",
+                "dataHora": "2025-09-08T07:05:59.1400143"
+              }
+            },
+            {
+              "nome": "Saída 1",
+              "valor": "12:50",
+              "valorOriginal": "12:50",
+              "ehRepP": true,
+              "geolocalizacao": {
+                "latitude": -23.102641,
+                "longitude": -47.249175,
+                "precisao": 14,
+                "endereco": "Rua Dirce Quitzau Deltreggia, Indaiatuba, São Paulo, Brasil",
+                "dataHora": "2025-09-08T12:50:48.0675566"
+              }
+            },
+            {
+              "nome": "Entrada 2",
+              "valor": "13:55",
+              "valorOriginal": "13:55",
+              "ehRepP": true,
+              "geolocalizacao": {
+                "latitude": -23.102641,
+                "longitude": -47.249175,
+                "precisao": 14,
+                "endereco": "Rua Dirce Quitzau Deltreggia, Indaiatuba, São Paulo, Brasil",
+                "dataHora": "2025-09-08T13:55:46.3013819"
+              }
+            },
+            {
+              "nome": "Saída 2",
+              "valor": "17:13",
+              "valorOriginal": "17:13",
+              "ehRepP": true,
+              "geolocalizacao": {
+                "latitude": -23.102641,
+                "longitude": -47.249175,
+                "precisao": 14,
+                "endereco": "Rua Dirce Quitzau Deltreggia, Indaiatuba, São Paulo, Brasil",
+                "dataHora": "2025-09-08T17:13:26.4778607"
+              }
+            },
+            {
+              "nome": "Entrada 3",
+              "valor": "",
+              "valorOriginal": null,
+              "ehRepP": false,
+              "geolocalizacao": null
+            },
+            {
+              "nome": "Saída 3",
+              "valor": "",
+              "valorOriginal": null,
+              "ehRepP": false,
+              "geolocalizacao": null
+            }
+          ],
+          "valores": [
+            {
+              "nome": "Folga",
+              "nomeOriginal": "Folga",
+              "valor": ""
+            },
+            {
+              "nome": "Saldo",
+              "nomeOriginal": "Saldo",
+              "valor": ""
+            }
+          ],
+          "saldo": "+00:00",
+          "situacao": 0,
+          "registroPendente": false,
+          "existePeriodoEncerrado": false
+        },
+        {
+          "id": 34390,
+          "data": "2025-09-09T00:00:00",
+          "funcionarioNome": "MARIO ALVES DE SOUZA CARVALHO",
+          "batidas": [
+            {
+              "nome": "Entrada 1",
+              "valor": "12:43",
+              "valorOriginal": "12:43",
+              "ehRepP": true,
+              "geolocalizacao": {
+                "latitude": -23.601702,
+                "longitude": -46.6990614,
+                "precisao": 14.034000396728516,
+                "endereco": "Rua Armando Petrella, São Paulo, São Paulo, Brasil",
+                "dataHora": "2025-09-09T12:43:30.0934718"
+              }
+            },
+            {
+              "nome": "Saída 1",
+              "valor": "13:42",
+              "valorOriginal": "13:42",
+              "ehRepP": true,
+              "geolocalizacao": {
+                "latitude": -23.6015769,
+                "longitude": -46.6991794,
+                "precisao": 11.52299976348877,
+                "endereco": "Rua Armando Petrella, São Paulo, São Paulo, Brasil",
+                "dataHora": "2025-09-09T13:42:22.7730876"
+              }
+            },
+            {
+              "nome": "Entrada 2",
+              "valor": "17:34",
+              "valorOriginal": "17:34",
+              "ehRepP": true,
+              "geolocalizacao": {
+                "latitude": -23.601567,
+                "longitude": -46.6992049,
+                "precisao": 15.442999839782715,
+                "endereco": "Rua Armando Petrella, São Paulo, São Paulo, Brasil",
+                "dataHora": "2025-09-09T17:34:37.5885408"
+              }
+            },
+            {
+              "nome": "Saída 2",
+              "valor": "",
+              "valorOriginal": null,
+              "ehRepP": false,
+              "geolocalizacao": null
+            },
+            {
+              "nome": "Entrada 3",
+              "valor": "",
+              "valorOriginal": null,
+              "ehRepP": false,
+              "geolocalizacao": null
+            },
+            {
+              "nome": "Saída 3",
+              "valor": "",
+              "valorOriginal": null,
+              "ehRepP": false,
+              "geolocalizacao": null
+            }
+          ],
+          "valores": [
+            {
+              "nome": "Folga",
+              "nomeOriginal": "Folga",
+              "valor": ""
+            },
+            {
+              "nome": "Saldo",
+              "nomeOriginal": "Saldo",
+              "valor": ""
+            }
+          ],
+          "saldo": "+00:00",
+          "situacao": 1,
+          "registroPendente": false,
+          "existePeriodoEncerrado": false
+        },
+        {
+          "id": 34405,
+          "data": "2025-09-10T00:00:00",
+          "funcionarioNome": "MARIO ALVES DE SOUZA CARVALHO",
+          "batidas": [
+            {
+              "nome": "Entrada 1",
+              "valor": "07:07",
+              "valorOriginal": "07:07",
+              "ehRepP": true,
+              "geolocalizacao": {
+                "latitude": -23.1181027,
+                "longitude": -47.253425,
+                "precisao": 16.80900001525879,
+                "endereco": "Rua Guilherme Magnusson Sobrinho, Indaiatuba, São Paulo, Brasil",
+                "dataHora": "2025-09-10T07:07:42.8996242"
+              }
+            },
+            {
+              "nome": "Saída 1",
+              "valor": "12:10",
+              "valorOriginal": "12:10",
+              "ehRepP": true,
+              "geolocalizacao": {
+                "latitude": -23.118221,
+                "longitude": -47.253375,
+                "precisao": 14,
+                "endereco": "Rua Guilherme Magnusson Sobrinho, Indaiatuba, São Paulo, Brasil",
+                "dataHora": "2025-09-10T12:10:31.640696"
+              }
+            },
+            {
+              "nome": "Entrada 2",
+              "valor": "13:12",
+              "valorOriginal": "13:12",
+              "ehRepP": true,
+              "geolocalizacao": {
+                "latitude": -23.118221,
+                "longitude": -47.253375,
+                "precisao": 14,
+                "endereco": "Rua Guilherme Magnusson Sobrinho, Indaiatuba, São Paulo, Brasil",
+                "dataHora": "2025-09-10T13:12:26.3298359"
+              }
+            },
+            {
+              "nome": "Saída 2",
+              "valor": "17:13",
+              "valorOriginal": "17:13",
+              "ehRepP": true,
+              "geolocalizacao": {
+                "latitude": -23.118221,
+                "longitude": -47.253375,
+                "precisao": 14,
+                "endereco": "Rua Guilherme Magnusson Sobrinho, Indaiatuba, São Paulo, Brasil",
+                "dataHora": "2025-09-10T17:13:21.7414342"
+              }
+            },
+            {
+              "nome": "Entrada 3",
+              "valor": "",
+              "valorOriginal": null,
+              "ehRepP": false,
+              "geolocalizacao": null
+            },
+            {
+              "nome": "Saída 3",
+              "valor": "",
+              "valorOriginal": null,
+              "ehRepP": false,
+              "geolocalizacao": null
+            }
+          ],
+          "valores": [
+            {
+              "nome": "Folga",
+              "nomeOriginal": "Folga",
+              "valor": ""
+            },
+            {
+              "nome": "Saldo",
+              "nomeOriginal": "Saldo",
+              "valor": ""
+            }
+          ],
+          "saldo": "+00:00",
+          "situacao": 0,
+          "registroPendente": false,
+          "existePeriodoEncerrado": false
+        },
+        {
+          "id": 34476,
+          "data": "2025-09-11T00:00:00",
+          "funcionarioNome": "MARIO ALVES DE SOUZA CARVALHO",
+          "batidas": [
+            {
+              "nome": "Entrada 1",
+              "valor": "07:03",
+              "valorOriginal": "07:03",
+              "ehRepP": true,
+              "geolocalizacao": {
+                "latitude": -23.118221,
+                "longitude": -47.253375,
+                "precisao": 14,
+                "endereco": "Rua Guilherme Magnusson Sobrinho, Indaiatuba, São Paulo, Brasil",
+                "dataHora": "2025-09-11T07:03:19.1071538"
+              }
+            },
+            {
+              "nome": "Saída 1",
+              "valor": "12:10",
+              "valorOriginal": "12:10",
+              "ehRepP": true,
+              "geolocalizacao": {
+                "latitude": -23.118221,
+                "longitude": -47.253375,
+                "precisao": 14,
+                "endereco": "Rua Guilherme Magnusson Sobrinho, Indaiatuba, São Paulo, Brasil",
+                "dataHora": "2025-09-11T12:10:28.4621895"
+              }
+            },
+            {
+              "nome": "Entrada 2",
+              "valor": "13:10",
+              "valorOriginal": "13:10",
+              "ehRepP": true,
+              "geolocalizacao": {
+                "latitude": -23.118221,
+                "longitude": -47.253375,
+                "precisao": 14,
+                "endereco": "Rua Guilherme Magnusson Sobrinho, Indaiatuba, São Paulo, Brasil",
+                "dataHora": "2025-09-11T13:10:22.0645098"
+              }
+            },
+            {
+              "nome": "Saída 2",
+              "valor": "17:13",
+              "valorOriginal": "17:13",
+              "ehRepP": true,
+              "geolocalizacao": {
+                "latitude": -23.118221,
+                "longitude": -47.253375,
+                "precisao": 14,
+                "endereco": "Rua Guilherme Magnusson Sobrinho, Indaiatuba, São Paulo, Brasil",
+                "dataHora": "2025-09-11T17:13:58.8307645"
+              }
+            },
+            {
+              "nome": "Entrada 3",
+              "valor": "",
+              "valorOriginal": null,
+              "ehRepP": false,
+              "geolocalizacao": null
+            },
+            {
+              "nome": "Saída 3",
+              "valor": "",
+              "valorOriginal": null,
+              "ehRepP": false,
+              "geolocalizacao": null
+            }
+          ],
+          "valores": [
+            {
+              "nome": "Folga",
+              "nomeOriginal": "Folga",
+              "valor": ""
+            },
+            {
+              "nome": "Saldo",
+              "nomeOriginal": "Saldo",
+              "valor": ""
+            }
+          ],
+          "saldo": "+00:00",
+          "situacao": 0,
+          "registroPendente": false,
+          "existePeriodoEncerrado": false
+        },
+        {
+          "id": 34580,
+          "data": "2025-09-12T00:00:00",
+          "funcionarioNome": "MARIO ALVES DE SOUZA CARVALHO",
+          "batidas": [
+            {
+              "nome": "Entrada 1",
+              "valor": "07:02",
+              "valorOriginal": "07:02",
+              "ehRepP": true,
+              "geolocalizacao": {
+                "latitude": -23.118221,
+                "longitude": -47.253375,
+                "precisao": 14,
+                "endereco": "Rua Guilherme Magnusson Sobrinho, Indaiatuba, São Paulo, Brasil",
+                "dataHora": "2025-09-12T07:02:56.5820253"
+              }
+            },
+            {
+              "nome": "Saída 1",
+              "valor": "12:10",
+              "valorOriginal": "12:10",
+              "ehRepP": true,
+              "geolocalizacao": {
+                "latitude": -23.118221,
+                "longitude": -47.253375,
+                "precisao": 14,
+                "endereco": "Rua Guilherme Magnusson Sobrinho, Indaiatuba, São Paulo, Brasil",
+                "dataHora": "2025-09-12T12:10:28.786718"
+              }
+            },
+            {
+              "nome": "Entrada 2",
+              "valor": "13:10",
+              "valorOriginal": "13:10",
+              "ehRepP": true,
+              "geolocalizacao": {
+                "latitude": -23.118221,
+                "longitude": -47.253375,
+                "precisao": 14,
+                "endereco": "Rua Guilherme Magnusson Sobrinho, Indaiatuba, São Paulo, Brasil",
+                "dataHora": "2025-09-12T13:10:22.445463"
+              }
+            },
+            {
+              "nome": "Saída 2",
+              "valor": "17:05",
+              "valorOriginal": "17:05",
+              "ehRepP": true,
+              "geolocalizacao": {
+                "latitude": -23.118221,
+                "longitude": -47.253375,
+                "precisao": 14,
+                "endereco": "Rua Guilherme Magnusson Sobrinho, Indaiatuba, São Paulo, Brasil",
+                "dataHora": "2025-09-12T17:05:25.6365285"
+              }
+            },
+            {
+              "nome": "Entrada 3",
+              "valor": "",
+              "valorOriginal": null,
+              "ehRepP": false,
+              "geolocalizacao": null
+            },
+            {
+              "nome": "Saída 3",
+              "valor": "",
+              "valorOriginal": null,
+              "ehRepP": false,
+              "geolocalizacao": null
+            }
+          ],
+          "valores": [
+            {
+              "nome": "Folga",
+              "nomeOriginal": "Folga",
+              "valor": ""
+            },
+            {
+              "nome": "Saldo",
+              "nomeOriginal": "Saldo",
+              "valor": ""
+            }
+          ],
+          "saldo": "+00:00",
+          "situacao": 0,
+          "registroPendente": false,
+          "existePeriodoEncerrado": false
+        },
+        {
+          "id": 34989,
+          "data": "2025-09-13T00:00:00",
+          "funcionarioNome": "MARIO ALVES DE SOUZA CARVALHO",
+          "batidas": [
+            {
+              "nome": "Entrada 1",
+              "valor": "",
+              "valorOriginal": null,
+              "ehRepP": false,
+              "geolocalizacao": null
+            },
+            {
+              "nome": "Saída 1",
+              "valor": "",
+              "valorOriginal": null,
+              "ehRepP": false,
+              "geolocalizacao": null
+            },
+            {
+              "nome": "Entrada 2",
+              "valor": "",
+              "valorOriginal": null,
+              "ehRepP": false,
+              "geolocalizacao": null
+            },
+            {
+              "nome": "Saída 2",
+              "valor": "",
+              "valorOriginal": null,
+              "ehRepP": false,
+              "geolocalizacao": null
+            },
+            {
+              "nome": "Entrada 3",
+              "valor": "",
+              "valorOriginal": null,
+              "ehRepP": false,
+              "geolocalizacao": null
+            },
+            {
+              "nome": "Saída 3",
+              "valor": "",
+              "valorOriginal": null,
+              "ehRepP": false,
+              "geolocalizacao": null
+            }
+          ],
+          "valores": [
+            {
+              "nome": "Folga",
+              "nomeOriginal": "Folga",
+              "valor": ""
+            },
+            {
+              "nome": "Saldo",
+              "nomeOriginal": "Saldo",
+              "valor": ""
+            }
+          ],
+          "saldo": "+00:00",
+          "situacao": 0,
+          "registroPendente": false,
+          "existePeriodoEncerrado": false
+        },
+        {
+          "id": 0,
+          "data": "2025-09-14T00:00:00",
+          "funcionarioNome": "MARIO ALVES DE SOUZA CARVALHO",
+          "batidas": [
+            {
+              "nome": "Entrada 1",
+              "valor": "",
+              "valorOriginal": null,
+              "ehRepP": false,
+              "geolocalizacao": null
+            },
+            {
+              "nome": "Saída 1",
+              "valor": "",
+              "valorOriginal": null,
+              "ehRepP": false,
+              "geolocalizacao": null
+            },
+            {
+              "nome": "Entrada 2",
+              "valor": "",
+              "valorOriginal": null,
+              "ehRepP": false,
+              "geolocalizacao": null
+            },
+            {
+              "nome": "Saída 2",
+              "valor": "",
+              "valorOriginal": null,
+              "ehRepP": false,
+              "geolocalizacao": null
+            },
+            {
+              "nome": "Entrada 3",
+              "valor": "",
+              "valorOriginal": null,
+              "ehRepP": false,
+              "geolocalizacao": null
+            },
+            {
+              "nome": "Saída 3",
+              "valor": "",
+              "valorOriginal": null,
+              "ehRepP": false,
+              "geolocalizacao": null
+            }
+          ],
+          "valores": [
+            {
+              "nome": "Folga",
+              "nomeOriginal": "Folga",
+              "valor": ""
+            },
+            {
+              "nome": "Saldo",
+              "nomeOriginal": "Saldo",
+              "valor": ""
+            }
+          ],
+          "saldo": "+00:00",
+          "situacao": 0,
+          "registroPendente": false,
+          "existePeriodoEncerrado": false
+        },
+        {
+          "id": 0,
+          "data": "2025-09-15T00:00:00",
+          "funcionarioNome": "MARIO ALVES DE SOUZA CARVALHO",
+          "batidas": [
+            {
+              "nome": "Entrada 1",
+              "valor": "",
+              "valorOriginal": null,
+              "ehRepP": false,
+              "geolocalizacao": null
+            },
+            {
+              "nome": "Saída 1",
+              "valor": "",
+              "valorOriginal": null,
+              "ehRepP": false,
+              "geolocalizacao": null
+            },
+            {
+              "nome": "Entrada 2",
+              "valor": "",
+              "valorOriginal": null,
+              "ehRepP": false,
+              "geolocalizacao": null
+            },
+            {
+              "nome": "Saída 2",
+              "valor": "",
+              "valorOriginal": null,
+              "ehRepP": false,
+              "geolocalizacao": null
+            },
+            {
+              "nome": "Entrada 3",
+              "valor": "",
+              "valorOriginal": null,
+              "ehRepP": false,
+              "geolocalizacao": null
+            },
+            {
+              "nome": "Saída 3",
+              "valor": "",
+              "valorOriginal": null,
+              "ehRepP": false,
+              "geolocalizacao": null
+            }
+          ],
+          "valores": [
+            {
+              "nome": "Folga",
+              "nomeOriginal": "Folga",
+              "valor": ""
+            },
+            {
+              "nome": "Saldo",
+              "nomeOriginal": "Saldo",
+              "valor": ""
+            }
+          ],
+          "saldo": "+00:00",
+          "situacao": 0,
+          "registroPendente": false,
+          "existePeriodoEncerrado": false
+        },
+        {
+          "id": 0,
+          "data": "2025-09-16T00:00:00",
+          "funcionarioNome": "MARIO ALVES DE SOUZA CARVALHO",
+          "batidas": [
+            {
+              "nome": "Entrada 1",
+              "valor": "",
+              "valorOriginal": null,
+              "ehRepP": false,
+              "geolocalizacao": null
+            },
+            {
+              "nome": "Saída 1",
+              "valor": "",
+              "valorOriginal": null,
+              "ehRepP": false,
+              "geolocalizacao": null
+            },
+            {
+              "nome": "Entrada 2",
+              "valor": "",
+              "valorOriginal": null,
+              "ehRepP": false,
+              "geolocalizacao": null
+            },
+            {
+              "nome": "Saída 2",
+              "valor": "",
+              "valorOriginal": null,
+              "ehRepP": false,
+              "geolocalizacao": null
+            },
+            {
+              "nome": "Entrada 3",
+              "valor": "",
+              "valorOriginal": null,
+              "ehRepP": false,
+              "geolocalizacao": null
+            },
+            {
+              "nome": "Saída 3",
+              "valor": "",
+              "valorOriginal": null,
+              "ehRepP": false,
+              "geolocalizacao": null
+            }
+          ],
+          "valores": [
+            {
+              "nome": "Folga",
+              "nomeOriginal": "Folga",
+              "valor": ""
+            },
+            {
+              "nome": "Saldo",
+              "nomeOriginal": "Saldo",
+              "valor": ""
+            }
+          ],
+          "saldo": "+00:00",
+          "situacao": 0,
+          "registroPendente": false,
+          "existePeriodoEncerrado": false
+        },
+        {
+          "id": 0,
+          "data": "2025-09-17T00:00:00",
+          "funcionarioNome": "MARIO ALVES DE SOUZA CARVALHO",
+          "batidas": [
+            {
+              "nome": "Entrada 1",
+              "valor": "",
+              "valorOriginal": null,
+              "ehRepP": false,
+              "geolocalizacao": null
+            },
+            {
+              "nome": "Saída 1",
+              "valor": "",
+              "valorOriginal": null,
+              "ehRepP": false,
+              "geolocalizacao": null
+            },
+            {
+              "nome": "Entrada 2",
+              "valor": "",
+              "valorOriginal": null,
+              "ehRepP": false,
+              "geolocalizacao": null
+            },
+            {
+              "nome": "Saída 2",
+              "valor": "",
+              "valorOriginal": null,
+              "ehRepP": false,
+              "geolocalizacao": null
+            },
+            {
+              "nome": "Entrada 3",
+              "valor": "",
+              "valorOriginal": null,
+              "ehRepP": false,
+              "geolocalizacao": null
+            },
+            {
+              "nome": "Saída 3",
+              "valor": "",
+              "valorOriginal": null,
+              "ehRepP": false,
+              "geolocalizacao": null
+            }
+          ],
+          "valores": [
+            {
+              "nome": "Folga",
+              "nomeOriginal": "Folga",
+              "valor": ""
+            },
+            {
+              "nome": "Saldo",
+              "nomeOriginal": "Saldo",
+              "valor": ""
+            }
+          ],
+          "saldo": "+00:00",
+          "situacao": 0,
+          "registroPendente": false,
+          "existePeriodoEncerrado": false
+        },
+        {
+          "id": 0,
+          "data": "2025-09-18T00:00:00",
+          "funcionarioNome": "MARIO ALVES DE SOUZA CARVALHO",
+          "batidas": [
+            {
+              "nome": "Entrada 1",
+              "valor": "",
+              "valorOriginal": null,
+              "ehRepP": false,
+              "geolocalizacao": null
+            },
+            {
+              "nome": "Saída 1",
+              "valor": "",
+              "valorOriginal": null,
+              "ehRepP": false,
+              "geolocalizacao": null
+            },
+            {
+              "nome": "Entrada 2",
+              "valor": "",
+              "valorOriginal": null,
+              "ehRepP": false,
+              "geolocalizacao": null
+            },
+            {
+              "nome": "Saída 2",
+              "valor": "",
+              "valorOriginal": null,
+              "ehRepP": false,
+              "geolocalizacao": null
+            },
+            {
+              "nome": "Entrada 3",
+              "valor": "",
+              "valorOriginal": null,
+              "ehRepP": false,
+              "geolocalizacao": null
+            },
+            {
+              "nome": "Saída 3",
+              "valor": "",
+              "valorOriginal": null,
+              "ehRepP": false,
+              "geolocalizacao": null
+            }
+          ],
+          "valores": [
+            {
+              "nome": "Folga",
+              "nomeOriginal": "Folga",
+              "valor": ""
+            },
+            {
+              "nome": "Saldo",
+              "nomeOriginal": "Saldo",
+              "valor": ""
+            }
+          ],
+          "saldo": "+00:00",
+          "situacao": 0,
+          "registroPendente": false,
+          "existePeriodoEncerrado": false
+        },
+        {
+          "id": 0,
+          "data": "2025-09-19T00:00:00",
+          "funcionarioNome": "MARIO ALVES DE SOUZA CARVALHO",
+          "batidas": [
+            {
+              "nome": "Entrada 1",
+              "valor": "",
+              "valorOriginal": null,
+              "ehRepP": false,
+              "geolocalizacao": null
+            },
+            {
+              "nome": "Saída 1",
+              "valor": "",
+              "valorOriginal": null,
+              "ehRepP": false,
+              "geolocalizacao": null
+            },
+            {
+              "nome": "Entrada 2",
+              "valor": "",
+              "valorOriginal": null,
+              "ehRepP": false,
+              "geolocalizacao": null
+            },
+            {
+              "nome": "Saída 2",
+              "valor": "",
+              "valorOriginal": null,
+              "ehRepP": false,
+              "geolocalizacao": null
+            },
+            {
+              "nome": "Entrada 3",
+              "valor": "",
+              "valorOriginal": null,
+              "ehRepP": false,
+              "geolocalizacao": null
+            },
+            {
+              "nome": "Saída 3",
+              "valor": "",
+              "valorOriginal": null,
+              "ehRepP": false,
+              "geolocalizacao": null
+            }
+          ],
+          "valores": [
+            {
+              "nome": "Folga",
+              "nomeOriginal": "Folga",
+              "valor": ""
+            },
+            {
+              "nome": "Saldo",
+              "nomeOriginal": "Saldo",
+              "valor": ""
+            }
+          ],
+          "saldo": "+00:00",
+          "situacao": 0,
+          "registroPendente": false,
+          "existePeriodoEncerrado": false
+        },
+        {
+          "id": 0,
+          "data": "2025-09-20T00:00:00",
+          "funcionarioNome": "MARIO ALVES DE SOUZA CARVALHO",
+          "batidas": [
+            {
+              "nome": "Entrada 1",
+              "valor": "",
+              "valorOriginal": null,
+              "ehRepP": false,
+              "geolocalizacao": null
+            },
+            {
+              "nome": "Saída 1",
+              "valor": "",
+              "valorOriginal": null,
+              "ehRepP": false,
+              "geolocalizacao": null
+            },
+            {
+              "nome": "Entrada 2",
+              "valor": "",
+              "valorOriginal": null,
+              "ehRepP": false,
+              "geolocalizacao": null
+            },
+            {
+              "nome": "Saída 2",
+              "valor": "",
+              "valorOriginal": null,
+              "ehRepP": false,
+              "geolocalizacao": null
+            },
+            {
+              "nome": "Entrada 3",
+              "valor": "",
+              "valorOriginal": null,
+              "ehRepP": false,
+              "geolocalizacao": null
+            },
+            {
+              "nome": "Saída 3",
+              "valor": "",
+              "valorOriginal": null,
+              "ehRepP": false,
+              "geolocalizacao": null
+            }
+          ],
+          "valores": [
+            {
+              "nome": "Folga",
+              "nomeOriginal": "Folga",
+              "valor": ""
+            },
+            {
+              "nome": "Saldo",
+              "nomeOriginal": "Saldo",
+              "valor": ""
+            }
+          ],
+          "saldo": "+00:00",
+          "situacao": 0,
+          "registroPendente": false,
+          "existePeriodoEncerrado": false
+        },
+        {
+          "id": 0,
+          "data": "2025-09-21T00:00:00",
+          "funcionarioNome": "MARIO ALVES DE SOUZA CARVALHO",
+          "batidas": [
+            {
+              "nome": "Entrada 1",
+              "valor": "",
+              "valorOriginal": null,
+              "ehRepP": false,
+              "geolocalizacao": null
+            },
+            {
+              "nome": "Saída 1",
+              "valor": "",
+              "valorOriginal": null,
+              "ehRepP": false,
+              "geolocalizacao": null
+            },
+            {
+              "nome": "Entrada 2",
+              "valor": "",
+              "valorOriginal": null,
+              "ehRepP": false,
+              "geolocalizacao": null
+            },
+            {
+              "nome": "Saída 2",
+              "valor": "",
+              "valorOriginal": null,
+              "ehRepP": false,
+              "geolocalizacao": null
+            },
+            {
+              "nome": "Entrada 3",
+              "valor": "",
+              "valorOriginal": null,
+              "ehRepP": false,
+              "geolocalizacao": null
+            },
+            {
+              "nome": "Saída 3",
+              "valor": "",
+              "valorOriginal": null,
+              "ehRepP": false,
+              "geolocalizacao": null
+            }
+          ],
+          "valores": [
+            {
+              "nome": "Folga",
+              "nomeOriginal": "Folga",
+              "valor": ""
+            },
+            {
+              "nome": "Saldo",
+              "nomeOriginal": "Saldo",
+              "valor": ""
+            }
+          ],
+          "saldo": "+00:00",
+          "situacao": 0,
+          "registroPendente": false,
+          "existePeriodoEncerrado": false
+        },
+        {
+          "id": 0,
+          "data": "2025-09-22T00:00:00",
+          "funcionarioNome": "MARIO ALVES DE SOUZA CARVALHO",
+          "batidas": [
+            {
+              "nome": "Entrada 1",
+              "valor": "",
+              "valorOriginal": null,
+              "ehRepP": false,
+              "geolocalizacao": null
+            },
+            {
+              "nome": "Saída 1",
+              "valor": "",
+              "valorOriginal": null,
+              "ehRepP": false,
+              "geolocalizacao": null
+            },
+            {
+              "nome": "Entrada 2",
+              "valor": "",
+              "valorOriginal": null,
+              "ehRepP": false,
+              "geolocalizacao": null
+            },
+            {
+              "nome": "Saída 2",
+              "valor": "",
+              "valorOriginal": null,
+              "ehRepP": false,
+              "geolocalizacao": null
+            },
+            {
+              "nome": "Entrada 3",
+              "valor": "",
+              "valorOriginal": null,
+              "ehRepP": false,
+              "geolocalizacao": null
+            },
+            {
+              "nome": "Saída 3",
+              "valor": "",
+              "valorOriginal": null,
+              "ehRepP": false,
+              "geolocalizacao": null
+            }
+          ],
+          "valores": [
+            {
+              "nome": "Folga",
+              "nomeOriginal": "Folga",
+              "valor": ""
+            },
+            {
+              "nome": "Saldo",
+              "nomeOriginal": "Saldo",
+              "valor": ""
+            }
+          ],
+          "saldo": "+00:00",
+          "situacao": 0,
+          "registroPendente": false,
+          "existePeriodoEncerrado": false
+        },
+        {
+          "id": 0,
+          "data": "2025-09-23T00:00:00",
+          "funcionarioNome": "MARIO ALVES DE SOUZA CARVALHO",
+          "batidas": [
+            {
+              "nome": "Entrada 1",
+              "valor": "",
+              "valorOriginal": null,
+              "ehRepP": false,
+              "geolocalizacao": null
+            },
+            {
+              "nome": "Saída 1",
+              "valor": "",
+              "valorOriginal": null,
+              "ehRepP": false,
+              "geolocalizacao": null
+            },
+            {
+              "nome": "Entrada 2",
+              "valor": "",
+              "valorOriginal": null,
+              "ehRepP": false,
+              "geolocalizacao": null
+            },
+            {
+              "nome": "Saída 2",
+              "valor": "",
+              "valorOriginal": null,
+              "ehRepP": false,
+              "geolocalizacao": null
+            },
+            {
+              "nome": "Entrada 3",
+              "valor": "",
+              "valorOriginal": null,
+              "ehRepP": false,
+              "geolocalizacao": null
+            },
+            {
+              "nome": "Saída 3",
+              "valor": "",
+              "valorOriginal": null,
+              "ehRepP": false,
+              "geolocalizacao": null
+            }
+          ],
+          "valores": [
+            {
+              "nome": "Folga",
+              "nomeOriginal": "Folga",
+              "valor": ""
+            },
+            {
+              "nome": "Saldo",
+              "nomeOriginal": "Saldo",
+              "valor": ""
+            }
+          ],
+          "saldo": "+00:00",
+          "situacao": 0,
+          "registroPendente": false,
+          "existePeriodoEncerrado": false
+        },
+        {
+          "id": 0,
+          "data": "2025-09-24T00:00:00",
+          "funcionarioNome": "MARIO ALVES DE SOUZA CARVALHO",
+          "batidas": [
+            {
+              "nome": "Entrada 1",
+              "valor": "",
+              "valorOriginal": null,
+              "ehRepP": false,
+              "geolocalizacao": null
+            },
+            {
+              "nome": "Saída 1",
+              "valor": "",
+              "valorOriginal": null,
+              "ehRepP": false,
+              "geolocalizacao": null
+            },
+            {
+              "nome": "Entrada 2",
+              "valor": "",
+              "valorOriginal": null,
+              "ehRepP": false,
+              "geolocalizacao": null
+            },
+            {
+              "nome": "Saída 2",
+              "valor": "",
+              "valorOriginal": null,
+              "ehRepP": false,
+              "geolocalizacao": null
+            },
+            {
+              "nome": "Entrada 3",
+              "valor": "",
+              "valorOriginal": null,
+              "ehRepP": false,
+              "geolocalizacao": null
+            },
+            {
+              "nome": "Saída 3",
+              "valor": "",
+              "valorOriginal": null,
+              "ehRepP": false,
+              "geolocalizacao": null
+            }
+          ],
+          "valores": [
+            {
+              "nome": "Folga",
+              "nomeOriginal": "Folga",
+              "valor": ""
+            },
+            {
+              "nome": "Saldo",
+              "nomeOriginal": "Saldo",
+              "valor": ""
+            }
+          ],
+          "saldo": "+00:00",
+          "situacao": 0,
+          "registroPendente": false,
+          "existePeriodoEncerrado": false
+        },
+        {
+          "id": 0,
+          "data": "2025-09-25T00:00:00",
+          "funcionarioNome": "MARIO ALVES DE SOUZA CARVALHO",
+          "batidas": [
+            {
+              "nome": "Entrada 1",
+              "valor": "",
+              "valorOriginal": null,
+              "ehRepP": false,
+              "geolocalizacao": null
+            },
+            {
+              "nome": "Saída 1",
+              "valor": "",
+              "valorOriginal": null,
+              "ehRepP": false,
+              "geolocalizacao": null
+            },
+            {
+              "nome": "Entrada 2",
+              "valor": "",
+              "valorOriginal": null,
+              "ehRepP": false,
+              "geolocalizacao": null
+            },
+            {
+              "nome": "Saída 2",
+              "valor": "",
+              "valorOriginal": null,
+              "ehRepP": false,
+              "geolocalizacao": null
+            },
+            {
+              "nome": "Entrada 3",
+              "valor": "",
+              "valorOriginal": null,
+              "ehRepP": false,
+              "geolocalizacao": null
+            },
+            {
+              "nome": "Saída 3",
+              "valor": "",
+              "valorOriginal": null,
+              "ehRepP": false,
+              "geolocalizacao": null
+            }
+          ],
+          "valores": [
+            {
+              "nome": "Folga",
+              "nomeOriginal": "Folga",
+              "valor": ""
+            },
+            {
+              "nome": "Saldo",
+              "nomeOriginal": "Saldo",
+              "valor": ""
+            }
+          ],
+          "saldo": "+00:00",
+          "situacao": 0,
+          "registroPendente": false,
+          "existePeriodoEncerrado": false
+        },
+        {
+          "id": 0,
+          "data": "2025-09-26T00:00:00",
+          "funcionarioNome": "MARIO ALVES DE SOUZA CARVALHO",
+          "batidas": [
+            {
+              "nome": "Entrada 1",
+              "valor": "",
+              "valorOriginal": null,
+              "ehRepP": false,
+              "geolocalizacao": null
+            },
+            {
+              "nome": "Saída 1",
+              "valor": "",
+              "valorOriginal": null,
+              "ehRepP": false,
+              "geolocalizacao": null
+            },
+            {
+              "nome": "Entrada 2",
+              "valor": "",
+              "valorOriginal": null,
+              "ehRepP": false,
+              "geolocalizacao": null
+            },
+            {
+              "nome": "Saída 2",
+              "valor": "",
+              "valorOriginal": null,
+              "ehRepP": false,
+              "geolocalizacao": null
+            },
+            {
+              "nome": "Entrada 3",
+              "valor": "",
+              "valorOriginal": null,
+              "ehRepP": false,
+              "geolocalizacao": null
+            },
+            {
+              "nome": "Saída 3",
+              "valor": "",
+              "valorOriginal": null,
+              "ehRepP": false,
+              "geolocalizacao": null
+            }
+          ],
+          "valores": [
+            {
+              "nome": "Folga",
+              "nomeOriginal": "Folga",
+              "valor": ""
+            },
+            {
+              "nome": "Saldo",
+              "nomeOriginal": "Saldo",
+              "valor": ""
+            }
+          ],
+          "saldo": "+00:00",
+          "situacao": 0,
+          "registroPendente": false,
+          "existePeriodoEncerrado": false
+        },
+        {
+          "id": 0,
+          "data": "2025-09-27T00:00:00",
+          "funcionarioNome": "MARIO ALVES DE SOUZA CARVALHO",
+          "batidas": [
+            {
+              "nome": "Entrada 1",
+              "valor": "",
+              "valorOriginal": null,
+              "ehRepP": false,
+              "geolocalizacao": null
+            },
+            {
+              "nome": "Saída 1",
+              "valor": "",
+              "valorOriginal": null,
+              "ehRepP": false,
+              "geolocalizacao": null
+            },
+            {
+              "nome": "Entrada 2",
+              "valor": "",
+              "valorOriginal": null,
+              "ehRepP": false,
+              "geolocalizacao": null
+            },
+            {
+              "nome": "Saída 2",
+              "valor": "",
+              "valorOriginal": null,
+              "ehRepP": false,
+              "geolocalizacao": null
+            },
+            {
+              "nome": "Entrada 3",
+              "valor": "",
+              "valorOriginal": null,
+              "ehRepP": false,
+              "geolocalizacao": null
+            },
+            {
+              "nome": "Saída 3",
+              "valor": "",
+              "valorOriginal": null,
+              "ehRepP": false,
+              "geolocalizacao": null
+            }
+          ],
+          "valores": [
+            {
+              "nome": "Folga",
+              "nomeOriginal": "Folga",
+              "valor": ""
+            },
+            {
+              "nome": "Saldo",
+              "nomeOriginal": "Saldo",
+              "valor": ""
+            }
+          ],
+          "saldo": "+00:00",
+          "situacao": 0,
+          "registroPendente": false,
+          "existePeriodoEncerrado": false
+        },
+        {
+          "id": 0,
+          "data": "2025-09-28T00:00:00",
+          "funcionarioNome": "MARIO ALVES DE SOUZA CARVALHO",
+          "batidas": [
+            {
+              "nome": "Entrada 1",
+              "valor": "",
+              "valorOriginal": null,
+              "ehRepP": false,
+              "geolocalizacao": null
+            },
+            {
+              "nome": "Saída 1",
+              "valor": "",
+              "valorOriginal": null,
+              "ehRepP": false,
+              "geolocalizacao": null
+            },
+            {
+              "nome": "Entrada 2",
+              "valor": "",
+              "valorOriginal": null,
+              "ehRepP": false,
+              "geolocalizacao": null
+            },
+            {
+              "nome": "Saída 2",
+              "valor": "",
+              "valorOriginal": null,
+              "ehRepP": false,
+              "geolocalizacao": null
+            },
+            {
+              "nome": "Entrada 3",
+              "valor": "",
+              "valorOriginal": null,
+              "ehRepP": false,
+              "geolocalizacao": null
+            },
+            {
+              "nome": "Saída 3",
+              "valor": "",
+              "valorOriginal": null,
+              "ehRepP": false,
+              "geolocalizacao": null
+            }
+          ],
+          "valores": [
+            {
+              "nome": "Folga",
+              "nomeOriginal": "Folga",
+              "valor": ""
+            },
+            {
+              "nome": "Saldo",
+              "nomeOriginal": "Saldo",
+              "valor": ""
+            }
+          ],
+          "saldo": "+00:00",
+          "situacao": 0,
+          "registroPendente": false,
+          "existePeriodoEncerrado": false
+        },
+        {
+          "id": 0,
+          "data": "2025-09-29T00:00:00",
+          "funcionarioNome": "MARIO ALVES DE SOUZA CARVALHO",
+          "batidas": [
+            {
+              "nome": "Entrada 1",
+              "valor": "",
+              "valorOriginal": null,
+              "ehRepP": false,
+              "geolocalizacao": null
+            },
+            {
+              "nome": "Saída 1",
+              "valor": "",
+              "valorOriginal": null,
+              "ehRepP": false,
+              "geolocalizacao": null
+            },
+            {
+              "nome": "Entrada 2",
+              "valor": "",
+              "valorOriginal": null,
+              "ehRepP": false,
+              "geolocalizacao": null
+            },
+            {
+              "nome": "Saída 2",
+              "valor": "",
+              "valorOriginal": null,
+              "ehRepP": false,
+              "geolocalizacao": null
+            },
+            {
+              "nome": "Entrada 3",
+              "valor": "",
+              "valorOriginal": null,
+              "ehRepP": false,
+              "geolocalizacao": null
+            },
+            {
+              "nome": "Saída 3",
+              "valor": "",
+              "valorOriginal": null,
+              "ehRepP": false,
+              "geolocalizacao": null
+            }
+          ],
+          "valores": [
+            {
+              "nome": "Folga",
+              "nomeOriginal": "Folga",
+              "valor": ""
+            },
+            {
+              "nome": "Saldo",
+              "nomeOriginal": "Saldo",
+              "valor": ""
+            }
+          ],
+          "saldo": "+00:00",
+          "situacao": 0,
+          "registroPendente": false,
+          "existePeriodoEncerrado": false
+        },
+        {
+          "id": 0,
+          "data": "2025-09-30T00:00:00",
+          "funcionarioNome": "MARIO ALVES DE SOUZA CARVALHO",
+          "batidas": [
+            {
+              "nome": "Entrada 1",
+              "valor": "",
+              "valorOriginal": null,
+              "ehRepP": false,
+              "geolocalizacao": null
+            },
+            {
+              "nome": "Saída 1",
+              "valor": "",
+              "valorOriginal": null,
+              "ehRepP": false,
+              "geolocalizacao": null
+            },
+            {
+              "nome": "Entrada 2",
+              "valor": "",
+              "valorOriginal": null,
+              "ehRepP": false,
+              "geolocalizacao": null
+            },
+            {
+              "nome": "Saída 2",
+              "valor": "",
+              "valorOriginal": null,
+              "ehRepP": false,
+              "geolocalizacao": null
+            },
+            {
+              "nome": "Entrada 3",
+              "valor": "",
+              "valorOriginal": null,
+              "ehRepP": false,
+              "geolocalizacao": null
+            },
+            {
+              "nome": "Saída 3",
+              "valor": "",
+              "valorOriginal": null,
+              "ehRepP": false,
+              "geolocalizacao": null
+            }
+          ],
+          "valores": [
+            {
+              "nome": "Folga",
+              "nomeOriginal": "Folga",
+              "valor": ""
+            },
+            {
+              "nome": "Saldo",
+              "nomeOriginal": "Saldo",
+              "valor": ""
+            }
+          ],
+          "saldo": "+00:00",
+          "situacao": 0,
+          "registroPendente": false,
+          "existePeriodoEncerrado": false
+        }
+      ],
+      "justificativas": [
+        {
+          "nomeAbreviado": "AbEleit",
+          "nomeCompleto": "Abono participacao Eleicao"
+        },
+        {
+          "nomeAbreviado": "AcFamMd",
+          "nomeCompleto": "Acompanhamento de Familiar a Medico"
+        },
+        {
+          "nomeAbreviado": "AfMdHR",
+          "nomeCompleto": "Afastamento Medico Horas"
+        },
+        {
+          "nomeAbreviado": "AfMed",
+          "nomeCompleto": "Afastamento Medico Dias(s)"
+        },
+        {
+          "nomeAbreviado": "DoaSng",
+          "nomeCompleto": "Doacao de Sangue"
+        },
+        {
+          "nomeAbreviado": "Esquec",
+          "nomeCompleto": "Esquecimento de Marcacao"
+        },
+        {
+          "nomeAbreviado": "Judicia",
+          "nomeCompleto": "Convocacao Judicial"
+        },
+        {
+          "nomeAbreviado": "LicCasa",
+          "nomeCompleto": "Licenca de Gala (Casamento)"
+        },
+        {
+          "nomeAbreviado": "LMatern",
+          "nomeCompleto": "Licenca Maternidade"
+        },
+        {
+          "nomeAbreviado": "LPatern",
+          "nomeCompleto": "Licenca Paternidade"
+        },
+        {
+          "nomeAbreviado": "MortFam",
+          "nomeCompleto": "Licenca por Nojo (Falecimento na familia)"
+        }
+      ],
+      "opcoesCartaoPonto": {
+        "funcionarioId": 50,
+        "exibirTermosMTB": false,
+        "exibirTotaisNoRodape": false,
+        "exibirMiniaturaDoHorario": true,
+        "exibirEventos": false,
+        "modoPaisagem": false,
+        "exibirJustificativas": false,
+        "exibirJustificativasInclusaoPonto": false,
+        "justificativasPreenchidasUsuario": false,
+        "exibirLegendasJustificativas": false,
+        "exibirAtividades": false,
+        "colunasSelecionadasImpressao": [
+          "Entrada 1",
+          "Saída 1",
+          "Entrada 2",
+          "Saída 2",
+          "Normais",
+          "Faltas",
+          "Extras",
+          "DSR",
+          "Carga"
+        ]
+      }
+    }
+  ],
+  "estrutura_completa": {
+    "erros": [],
+    "totais": [
+      {
+        "nome": "Folga",
+        "nomeOriginal": "Folga",
+        "valor": "00:00"
+      },
+      {
+        "nome": "Saldo",
+        "nomeOriginal": "Saldo",
+        "valor": "-45:15"
+      }
+    ],
+    "lista": [
+      {
+        "id": 33731,
+        "data": "2025-09-01T00:00:00",
+        "funcionarioNome": "MARIO ALVES DE SOUZA CARVALHO",
+        "batidas": [
+          {
+            "nome": "Entrada 1",
+            "valor": "",
+            "valorOriginal": null,
+            "ehRepP": false,
+            "geolocalizacao": null
+          },
+          {
+            "nome": "Saída 1",
+            "valor": "",
+            "valorOriginal": null,
+            "ehRepP": false,
+            "geolocalizacao": null
+          },
+          {
+            "nome": "Entrada 2",
+            "valor": "",
+            "valorOriginal": null,
+            "ehRepP": false,
+            "geolocalizacao": null
+          },
+          {
+            "nome": "Saída 2",
+            "valor": "",
+            "valorOriginal": null,
+            "ehRepP": false,
+            "geolocalizacao": null
+          },
+          {
+            "nome": "Entrada 3",
+            "valor": "",
+            "valorOriginal": null,
+            "ehRepP": false,
+            "geolocalizacao": null
+          },
+          {
+            "nome": "Saída 3",
+            "valor": "",
+            "valorOriginal": null,
+            "ehRepP": false,
+            "geolocalizacao": null
+          }
+        ],
+        "valores": [
+          {
+            "nome": "Folga",
+            "nomeOriginal": "Folga",
+            "valor": ""
+          },
+          {
+            "nome": "Saldo",
+            "nomeOriginal": "Saldo",
+            "valor": "-09:03"
+          }
+        ],
+        "saldo": "-09:03",
+        "situacao": 2,
+        "registroPendente": false,
+        "existePeriodoEncerrado": false
+      },
+      {
+        "id": 33893,
+        "data": "2025-09-02T00:00:00",
+        "funcionarioNome": "MARIO ALVES DE SOUZA CARVALHO",
+        "batidas": [
+          {
+            "nome": "Entrada 1",
+            "valor": "",
+            "valorOriginal": null,
+            "ehRepP": false,
+            "geolocalizacao": null
+          },
+          {
+            "nome": "Saída 1",
+            "valor": "",
+            "valorOriginal": null,
+            "ehRepP": false,
+            "geolocalizacao": null
+          },
+          {
+            "nome": "Entrada 2",
+            "valor": "",
+            "valorOriginal": null,
+            "ehRepP": false,
+            "geolocalizacao": null
+          },
+          {
+            "nome": "Saída 2",
+            "valor": "",
+            "valorOriginal": null,
+            "ehRepP": false,
+            "geolocalizacao": null
+          },
+          {
+            "nome": "Entrada 3",
+            "valor": "",
+            "valorOriginal": null,
+            "ehRepP": false,
+            "geolocalizacao": null
+          },
+          {
+            "nome": "Saída 3",
+            "valor": "",
+            "valorOriginal": null,
+            "ehRepP": false,
+            "geolocalizacao": null
+          }
+        ],
+        "valores": [
+          {
+            "nome": "Folga",
+            "nomeOriginal": "Folga",
+            "valor": ""
+          },
+          {
+            "nome": "Saldo",
+            "nomeOriginal": "Saldo",
+            "valor": "-09:03"
+          }
+        ],
+        "saldo": "-09:03",
+        "situacao": 2,
+        "registroPendente": false,
+        "existePeriodoEncerrado": false
+      },
+      {
+        "id": 34027,
+        "data": "2025-09-03T00:00:00",
+        "funcionarioNome": "MARIO ALVES DE SOUZA CARVALHO",
+        "batidas": [
+          {
+            "nome": "Entrada 1",
+            "valor": "",
+            "valorOriginal": null,
+            "ehRepP": false,
+            "geolocalizacao": null
+          },
+          {
+            "nome": "Saída 1",
+            "valor": "",
+            "valorOriginal": null,
+            "ehRepP": false,
+            "geolocalizacao": null
+          },
+          {
+            "nome": "Entrada 2",
+            "valor": "",
+            "valorOriginal": null,
+            "ehRepP": false,
+            "geolocalizacao": null
+          },
+          {
+            "nome": "Saída 2",
+            "valor": "",
+            "valorOriginal": null,
+            "ehRepP": false,
+            "geolocalizacao": null
+          },
+          {
+            "nome": "Entrada 3",
+            "valor": "",
+            "valorOriginal": null,
+            "ehRepP": false,
+            "geolocalizacao": null
+          },
+          {
+            "nome": "Saída 3",
+            "valor": "",
+            "valorOriginal": null,
+            "ehRepP": false,
+            "geolocalizacao": null
+          }
+        ],
+        "valores": [
+          {
+            "nome": "Folga",
+            "nomeOriginal": "Folga",
+            "valor": ""
+          },
+          {
+            "nome": "Saldo",
+            "nomeOriginal": "Saldo",
+            "valor": "-09:03"
+          }
+        ],
+        "saldo": "-09:03",
+        "situacao": 2,
+        "registroPendente": false,
+        "existePeriodoEncerrado": false
+      },
+      {
+        "id": 34313,
+        "data": "2025-09-04T00:00:00",
+        "funcionarioNome": "MARIO ALVES DE SOUZA CARVALHO",
+        "batidas": [
+          {
+            "nome": "Entrada 1",
+            "valor": "",
+            "valorOriginal": null,
+            "ehRepP": false,
+            "geolocalizacao": null
+          },
+          {
+            "nome": "Saída 1",
+            "valor": "",
+            "valorOriginal": null,
+            "ehRepP": false,
+            "geolocalizacao": null
+          },
+          {
+            "nome": "Entrada 2",
+            "valor": "",
+            "valorOriginal": null,
+            "ehRepP": false,
+            "geolocalizacao": null
+          },
+          {
+            "nome": "Saída 2",
+            "valor": "",
+            "valorOriginal": null,
+            "ehRepP": false,
+            "geolocalizacao": null
+          },
+          {
+            "nome": "Entrada 3",
+            "valor": "",
+            "valorOriginal": null,
+            "ehRepP": false,
+            "geolocalizacao": null
+          },
+          {
+            "nome": "Saída 3",
+            "valor": "",
+            "valorOriginal": null,
+            "ehRepP": false,
+            "geolocalizacao": null
+          }
+        ],
+        "valores": [
+          {
+            "nome": "Folga",
+            "nomeOriginal": "Folga",
+            "valor": ""
+          },
+          {
+            "nome": "Saldo",
+            "nomeOriginal": "Saldo",
+            "valor": "-09:03"
+          }
+        ],
+        "saldo": "-09:03",
+        "situacao": 2,
+        "registroPendente": false,
+        "existePeriodoEncerrado": false
+      },
+      {
+        "id": 34314,
+        "data": "2025-09-05T00:00:00",
+        "funcionarioNome": "MARIO ALVES DE SOUZA CARVALHO",
+        "batidas": [
+          {
+            "nome": "Entrada 1",
+            "valor": "",
+            "valorOriginal": null,
+            "ehRepP": false,
+            "geolocalizacao": null
+          },
+          {
+            "nome": "Saída 1",
+            "valor": "",
+            "valorOriginal": null,
+            "ehRepP": false,
+            "geolocalizacao": null
+          },
+          {
+            "nome": "Entrada 2",
+            "valor": "",
+            "valorOriginal": null,
+            "ehRepP": false,
+            "geolocalizacao": null
+          },
+          {
+            "nome": "Saída 2",
+            "valor": "",
+            "valorOriginal": null,
+            "ehRepP": false,
+            "geolocalizacao": null
+          },
+          {
+            "nome": "Entrada 3",
+            "valor": "",
+            "valorOriginal": null,
+            "ehRepP": false,
+            "geolocalizacao": null
+          },
+          {
+            "nome": "Saída 3",
+            "valor": "",
+            "valorOriginal": null,
+            "ehRepP": false,
+            "geolocalizacao": null
+          }
+        ],
+        "valores": [
+          {
+            "nome": "Folga",
+            "nomeOriginal": "Folga",
+            "valor": ""
+          },
+          {
+            "nome": "Saldo",
+            "nomeOriginal": "Saldo",
+            "valor": "-09:03"
+          }
+        ],
+        "saldo": "-09:03",
+        "situacao": 2,
+        "registroPendente": false,
+        "existePeriodoEncerrado": false
+      },
+      {
+        "id": 34382,
+        "data": "2025-09-06T00:00:00",
+        "funcionarioNome": "MARIO ALVES DE SOUZA CARVALHO",
+        "batidas": [
+          {
+            "nome": "Entrada 1",
+            "valor": "",
+            "valorOriginal": null,
+            "ehRepP": false,
+            "geolocalizacao": null
+          },
+          {
+            "nome": "Saída 1",
+            "valor": "",
+            "valorOriginal": null,
+            "ehRepP": false,
+            "geolocalizacao": null
+          },
+          {
+            "nome": "Entrada 2",
+            "valor": "",
+            "valorOriginal": null,
+            "ehRepP": false,
+            "geolocalizacao": null
+          },
+          {
+            "nome": "Saída 2",
+            "valor": "",
+            "valorOriginal": null,
+            "ehRepP": false,
+            "geolocalizacao": null
+          },
+          {
+            "nome": "Entrada 3",
+            "valor": "",
+            "valorOriginal": null,
+            "ehRepP": false,
+            "geolocalizacao": null
+          },
+          {
+            "nome": "Saída 3",
+            "valor": "",
+            "valorOriginal": null,
+            "ehRepP": false,
+            "geolocalizacao": null
+          }
+        ],
+        "valores": [
+          {
+            "nome": "Folga",
+            "nomeOriginal": "Folga",
+            "valor": ""
+          },
+          {
+            "nome": "Saldo",
+            "nomeOriginal": "Saldo",
+            "valor": ""
+          }
+        ],
+        "saldo": "+00:00",
+        "situacao": 0,
+        "registroPendente": false,
+        "existePeriodoEncerrado": false
+      },
+      {
+        "id": 34388,
+        "data": "2025-09-07T00:00:00",
+        "funcionarioNome": "MARIO ALVES DE SOUZA CARVALHO",
+        "batidas": [
+          {
+            "nome": "Entrada 1",
+            "valor": "",
+            "valorOriginal": null,
+            "ehRepP": false,
+            "geolocalizacao": null
+          },
+          {
+            "nome": "Saída 1",
+            "valor": "",
+            "valorOriginal": null,
+            "ehRepP": false,
+            "geolocalizacao": null
+          },
+          {
+            "nome": "Entrada 2",
+            "valor": "",
+            "valorOriginal": null,
+            "ehRepP": false,
+            "geolocalizacao": null
+          },
+          {
+            "nome": "Saída 2",
+            "valor": "",
+            "valorOriginal": null,
+            "ehRepP": false,
+            "geolocalizacao": null
+          },
+          {
+            "nome": "Entrada 3",
+            "valor": "",
+            "valorOriginal": null,
+            "ehRepP": false,
+            "geolocalizacao": null
+          },
+          {
+            "nome": "Saída 3",
+            "valor": "",
+            "valorOriginal": null,
+            "ehRepP": false,
+            "geolocalizacao": null
+          }
+        ],
+        "valores": [
+          {
+            "nome": "Folga",
+            "nomeOriginal": "Folga",
+            "valor": ""
+          },
+          {
+            "nome": "Saldo",
+            "nomeOriginal": "Saldo",
+            "valor": ""
+          }
+        ],
+        "saldo": "+00:00",
+        "situacao": 0,
+        "registroPendente": false,
+        "existePeriodoEncerrado": false
+      },
+      {
+        "id": 34231,
+        "data": "2025-09-08T00:00:00",
+        "funcionarioNome": "MARIO ALVES DE SOUZA CARVALHO",
+        "batidas": [
+          {
+            "nome": "Entrada 1",
+            "valor": "07:05",
+            "valorOriginal": "07:05",
+            "ehRepP": true,
+            "geolocalizacao": {
+              "latitude": -23.1178536,
+              "longitude": -47.2533109,
+              "precisao": 19.850000381469727,
+              "endereco": "Rua Nelson Bitto, Indaiatuba, São Paulo, Brasil",
+              "dataHora": "2025-09-08T07:05:59.1400143"
+            }
+          },
+          {
+            "nome": "Saída 1",
+            "valor": "12:50",
+            "valorOriginal": "12:50",
+            "ehRepP": true,
+            "geolocalizacao": {
+              "latitude": -23.102641,
+              "longitude": -47.249175,
+              "precisao": 14,
+              "endereco": "Rua Dirce Quitzau Deltreggia, Indaiatuba, São Paulo, Brasil",
+              "dataHora": "2025-09-08T12:50:48.0675566"
+            }
+          },
+          {
+            "nome": "Entrada 2",
+            "valor": "13:55",
+            "valorOriginal": "13:55",
+            "ehRepP": true,
+            "geolocalizacao": {
+              "latitude": -23.102641,
+              "longitude": -47.249175,
+              "precisao": 14,
+              "endereco": "Rua Dirce Quitzau Deltreggia, Indaiatuba, São Paulo, Brasil",
+              "dataHora": "2025-09-08T13:55:46.3013819"
+            }
+          },
+          {
+            "nome": "Saída 2",
+            "valor": "17:13",
+            "valorOriginal": "17:13",
+            "ehRepP": true,
+            "geolocalizacao": {
+              "latitude": -23.102641,
+              "longitude": -47.249175,
+              "precisao": 14,
+              "endereco": "Rua Dirce Quitzau Deltreggia, Indaiatuba, São Paulo, Brasil",
+              "dataHora": "2025-09-08T17:13:26.4778607"
+            }
+          },
+          {
+            "nome": "Entrada 3",
+            "valor": "",
+            "valorOriginal": null,
+            "ehRepP": false,
+            "geolocalizacao": null
+          },
+          {
+            "nome": "Saída 3",
+            "valor": "",
+            "valorOriginal": null,
+            "ehRepP": false,
+            "geolocalizacao": null
+          }
+        ],
+        "valores": [
+          {
+            "nome": "Folga",
+            "nomeOriginal": "Folga",
+            "valor": ""
+          },
+          {
+            "nome": "Saldo",
+            "nomeOriginal": "Saldo",
+            "valor": ""
+          }
+        ],
+        "saldo": "+00:00",
+        "situacao": 0,
+        "registroPendente": false,
+        "existePeriodoEncerrado": false
+      },
+      {
+        "id": 34390,
+        "data": "2025-09-09T00:00:00",
+        "funcionarioNome": "MARIO ALVES DE SOUZA CARVALHO",
+        "batidas": [
+          {
+            "nome": "Entrada 1",
+            "valor": "12:43",
+            "valorOriginal": "12:43",
+            "ehRepP": true,
+            "geolocalizacao": {
+              "latitude": -23.601702,
+              "longitude": -46.6990614,
+              "precisao": 14.034000396728516,
+              "endereco": "Rua Armando Petrella, São Paulo, São Paulo, Brasil",
+              "dataHora": "2025-09-09T12:43:30.0934718"
+            }
+          },
+          {
+            "nome": "Saída 1",
+            "valor": "13:42",
+            "valorOriginal": "13:42",
+            "ehRepP": true,
+            "geolocalizacao": {
+              "latitude": -23.6015769,
+              "longitude": -46.6991794,
+              "precisao": 11.52299976348877,
+              "endereco": "Rua Armando Petrella, São Paulo, São Paulo, Brasil",
+              "dataHora": "2025-09-09T13:42:22.7730876"
+            }
+          },
+          {
+            "nome": "Entrada 2",
+            "valor": "17:34",
+            "valorOriginal": "17:34",
+            "ehRepP": true,
+            "geolocalizacao": {
+              "latitude": -23.601567,
+              "longitude": -46.6992049,
+              "precisao": 15.442999839782715,
+              "endereco": "Rua Armando Petrella, São Paulo, São Paulo, Brasil",
+              "dataHora": "2025-09-09T17:34:37.5885408"
+            }
+          },
+          {
+            "nome": "Saída 2",
+            "valor": "",
+            "valorOriginal": null,
+            "ehRepP": false,
+            "geolocalizacao": null
+          },
+          {
+            "nome": "Entrada 3",
+            "valor": "",
+            "valorOriginal": null,
+            "ehRepP": false,
+            "geolocalizacao": null
+          },
+          {
+            "nome": "Saída 3",
+            "valor": "",
+            "valorOriginal": null,
+            "ehRepP": false,
+            "geolocalizacao": null
+          }
+        ],
+        "valores": [
+          {
+            "nome": "Folga",
+            "nomeOriginal": "Folga",
+            "valor": ""
+          },
+          {
+            "nome": "Saldo",
+            "nomeOriginal": "Saldo",
+            "valor": ""
+          }
+        ],
+        "saldo": "+00:00",
+        "situacao": 1,
+        "registroPendente": false,
+        "existePeriodoEncerrado": false
+      },
+      {
+        "id": 34405,
+        "data": "2025-09-10T00:00:00",
+        "funcionarioNome": "MARIO ALVES DE SOUZA CARVALHO",
+        "batidas": [
+          {
+            "nome": "Entrada 1",
+            "valor": "07:07",
+            "valorOriginal": "07:07",
+            "ehRepP": true,
+            "geolocalizacao": {
+              "latitude": -23.1181027,
+              "longitude": -47.253425,
+              "precisao": 16.80900001525879,
+              "endereco": "Rua Guilherme Magnusson Sobrinho, Indaiatuba, São Paulo, Brasil",
+              "dataHora": "2025-09-10T07:07:42.8996242"
+            }
+          },
+          {
+            "nome": "Saída 1",
+            "valor": "12:10",
+            "valorOriginal": "12:10",
+            "ehRepP": true,
+            "geolocalizacao": {
+              "latitude": -23.118221,
+              "longitude": -47.253375,
+              "precisao": 14,
+              "endereco": "Rua Guilherme Magnusson Sobrinho, Indaiatuba, São Paulo, Brasil",
+              "dataHora": "2025-09-10T12:10:31.640696"
+            }
+          },
+          {
+            "nome": "Entrada 2",
+            "valor": "13:12",
+            "valorOriginal": "13:12",
+            "ehRepP": true,
+            "geolocalizacao": {
+              "latitude": -23.118221,
+              "longitude": -47.253375,
+              "precisao": 14,
+              "endereco": "Rua Guilherme Magnusson Sobrinho, Indaiatuba, São Paulo, Brasil",
+              "dataHora": "2025-09-10T13:12:26.3298359"
+            }
+          },
+          {
+            "nome": "Saída 2",
+            "valor": "17:13",
+            "valorOriginal": "17:13",
+            "ehRepP": true,
+            "geolocalizacao": {
+              "latitude": -23.118221,
+              "longitude": -47.253375,
+              "precisao": 14,
+              "endereco": "Rua Guilherme Magnusson Sobrinho, Indaiatuba, São Paulo, Brasil",
+              "dataHora": "2025-09-10T17:13:21.7414342"
+            }
+          },
+          {
+            "nome": "Entrada 3",
+            "valor": "",
+            "valorOriginal": null,
+            "ehRepP": false,
+            "geolocalizacao": null
+          },
+          {
+            "nome": "Saída 3",
+            "valor": "",
+            "valorOriginal": null,
+            "ehRepP": false,
+            "geolocalizacao": null
+          }
+        ],
+        "valores": [
+          {
+            "nome": "Folga",
+            "nomeOriginal": "Folga",
+            "valor": ""
+          },
+          {
+            "nome": "Saldo",
+            "nomeOriginal": "Saldo",
+            "valor": ""
+          }
+        ],
+        "saldo": "+00:00",
+        "situacao": 0,
+        "registroPendente": false,
+        "existePeriodoEncerrado": false
+      },
+      {
+        "id": 34476,
+        "data": "2025-09-11T00:00:00",
+        "funcionarioNome": "MARIO ALVES DE SOUZA CARVALHO",
+        "batidas": [
+          {
+            "nome": "Entrada 1",
+            "valor": "07:03",
+            "valorOriginal": "07:03",
+            "ehRepP": true,
+            "geolocalizacao": {
+              "latitude": -23.118221,
+              "longitude": -47.253375,
+              "precisao": 14,
+              "endereco": "Rua Guilherme Magnusson Sobrinho, Indaiatuba, São Paulo, Brasil",
+              "dataHora": "2025-09-11T07:03:19.1071538"
+            }
+          },
+          {
+            "nome": "Saída 1",
+            "valor": "12:10",
+            "valorOriginal": "12:10",
+            "ehRepP": true,
+            "geolocalizacao": {
+              "latitude": -23.118221,
+              "longitude": -47.253375,
+              "precisao": 14,
+              "endereco": "Rua Guilherme Magnusson Sobrinho, Indaiatuba, São Paulo, Brasil",
+              "dataHora": "2025-09-11T12:10:28.4621895"
+            }
+          },
+          {
+            "nome": "Entrada 2",
+            "valor": "13:10",
+            "valorOriginal": "13:10",
+            "ehRepP": true,
+            "geolocalizacao": {
+              "latitude": -23.118221,
+              "longitude": -47.253375,
+              "precisao": 14,
+              "endereco": "Rua Guilherme Magnusson Sobrinho, Indaiatuba, São Paulo, Brasil",
+              "dataHora": "2025-09-11T13:10:22.0645098"
+            }
+          },
+          {
+            "nome": "Saída 2",
+            "valor": "17:13",
+            "valorOriginal": "17:13",
+            "ehRepP": true,
+            "geolocalizacao": {
+              "latitude": -23.118221,
+              "longitude": -47.253375,
+              "precisao": 14,
+              "endereco": "Rua Guilherme Magnusson Sobrinho, Indaiatuba, São Paulo, Brasil",
+              "dataHora": "2025-09-11T17:13:58.8307645"
+            }
+          },
+          {
+            "nome": "Entrada 3",
+            "valor": "",
+            "valorOriginal": null,
+            "ehRepP": false,
+            "geolocalizacao": null
+          },
+          {
+            "nome": "Saída 3",
+            "valor": "",
+            "valorOriginal": null,
+            "ehRepP": false,
+            "geolocalizacao": null
+          }
+        ],
+        "valores": [
+          {
+            "nome": "Folga",
+            "nomeOriginal": "Folga",
+            "valor": ""
+          },
+          {
+            "nome": "Saldo",
+            "nomeOriginal": "Saldo",
+            "valor": ""
+          }
+        ],
+        "saldo": "+00:00",
+        "situacao": 0,
+        "registroPendente": false,
+        "existePeriodoEncerrado": false
+      },
+      {
+        "id": 34580,
+        "data": "2025-09-12T00:00:00",
+        "funcionarioNome": "MARIO ALVES DE SOUZA CARVALHO",
+        "batidas": [
+          {
+            "nome": "Entrada 1",
+            "valor": "07:02",
+            "valorOriginal": "07:02",
+            "ehRepP": true,
+            "geolocalizacao": {
+              "latitude": -23.118221,
+              "longitude": -47.253375,
+              "precisao": 14,
+              "endereco": "Rua Guilherme Magnusson Sobrinho, Indaiatuba, São Paulo, Brasil",
+              "dataHora": "2025-09-12T07:02:56.5820253"
+            }
+          },
+          {
+            "nome": "Saída 1",
+            "valor": "12:10",
+            "valorOriginal": "12:10",
+            "ehRepP": true,
+            "geolocalizacao": {
+              "latitude": -23.118221,
+              "longitude": -47.253375,
+              "precisao": 14,
+              "endereco": "Rua Guilherme Magnusson Sobrinho, Indaiatuba, São Paulo, Brasil",
+              "dataHora": "2025-09-12T12:10:28.786718"
+            }
+          },
+          {
+            "nome": "Entrada 2",
+            "valor": "13:10",
+            "valorOriginal": "13:10",
+            "ehRepP": true,
+            "geolocalizacao": {
+              "latitude": -23.118221,
+              "longitude": -47.253375,
+              "precisao": 14,
+              "endereco": "Rua Guilherme Magnusson Sobrinho, Indaiatuba, São Paulo, Brasil",
+              "dataHora": "2025-09-12T13:10:22.445463"
+            }
+          },
+          {
+            "nome": "Saída 2",
+            "valor": "17:05",
+            "valorOriginal": "17:05",
+            "ehRepP": true,
+            "geolocalizacao": {
+              "latitude": -23.118221,
+              "longitude": -47.253375,
+              "precisao": 14,
+              "endereco": "Rua Guilherme Magnusson Sobrinho, Indaiatuba, São Paulo, Brasil",
+              "dataHora": "2025-09-12T17:05:25.6365285"
+            }
+          },
+          {
+            "nome": "Entrada 3",
+            "valor": "",
+            "valorOriginal": null,
+            "ehRepP": false,
+            "geolocalizacao": null
+          },
+          {
+            "nome": "Saída 3",
+            "valor": "",
+            "valorOriginal": null,
+            "ehRepP": false,
+            "geolocalizacao": null
+          }
+        ],
+        "valores": [
+          {
+            "nome": "Folga",
+            "nomeOriginal": "Folga",
+            "valor": ""
+          },
+          {
+            "nome": "Saldo",
+            "nomeOriginal": "Saldo",
+            "valor": ""
+          }
+        ],
+        "saldo": "+00:00",
+        "situacao": 0,
+        "registroPendente": false,
+        "existePeriodoEncerrado": false
+      },
+      {
+        "id": 34989,
+        "data": "2025-09-13T00:00:00",
+        "funcionarioNome": "MARIO ALVES DE SOUZA CARVALHO",
+        "batidas": [
+          {
+            "nome": "Entrada 1",
+            "valor": "",
+            "valorOriginal": null,
+            "ehRepP": false,
+            "geolocalizacao": null
+          },
+          {
+            "nome": "Saída 1",
+            "valor": "",
+            "valorOriginal": null,
+            "ehRepP": false,
+            "geolocalizacao": null
+          },
+          {
+            "nome": "Entrada 2",
+            "valor": "",
+            "valorOriginal": null,
+            "ehRepP": false,
+            "geolocalizacao": null
+          },
+          {
+            "nome": "Saída 2",
+            "valor": "",
+            "valorOriginal": null,
+            "ehRepP": false,
+            "geolocalizacao": null
+          },
+          {
+            "nome": "Entrada 3",
+            "valor": "",
+            "valorOriginal": null,
+            "ehRepP": false,
+            "geolocalizacao": null
+          },
+          {
+            "nome": "Saída 3",
+            "valor": "",
+            "valorOriginal": null,
+            "ehRepP": false,
+            "geolocalizacao": null
+          }
+        ],
+        "valores": [
+          {
+            "nome": "Folga",
+            "nomeOriginal": "Folga",
+            "valor": ""
+          },
+          {
+            "nome": "Saldo",
+            "nomeOriginal": "Saldo",
+            "valor": ""
+          }
+        ],
+        "saldo": "+00:00",
+        "situacao": 0,
+        "registroPendente": false,
+        "existePeriodoEncerrado": false
+      },
+      {
+        "id": 0,
+        "data": "2025-09-14T00:00:00",
+        "funcionarioNome": "MARIO ALVES DE SOUZA CARVALHO",
+        "batidas": [
+          {
+            "nome": "Entrada 1",
+            "valor": "",
+            "valorOriginal": null,
+            "ehRepP": false,
+            "geolocalizacao": null
+          },
+          {
+            "nome": "Saída 1",
+            "valor": "",
+            "valorOriginal": null,
+            "ehRepP": false,
+            "geolocalizacao": null
+          },
+          {
+            "nome": "Entrada 2",
+            "valor": "",
+            "valorOriginal": null,
+            "ehRepP": false,
+            "geolocalizacao": null
+          },
+          {
+            "nome": "Saída 2",
+            "valor": "",
+            "valorOriginal": null,
+            "ehRepP": false,
+            "geolocalizacao": null
+          },
+          {
+            "nome": "Entrada 3",
+            "valor": "",
+            "valorOriginal": null,
+            "ehRepP": false,
+            "geolocalizacao": null
+          },
+          {
+            "nome": "Saída 3",
+            "valor": "",
+            "valorOriginal": null,
+            "ehRepP": false,
+            "geolocalizacao": null
+          }
+        ],
+        "valores": [
+          {
+            "nome": "Folga",
+            "nomeOriginal": "Folga",
+            "valor": ""
+          },
+          {
+            "nome": "Saldo",
+            "nomeOriginal": "Saldo",
+            "valor": ""
+          }
+        ],
+        "saldo": "+00:00",
+        "situacao": 0,
+        "registroPendente": false,
+        "existePeriodoEncerrado": false
+      },
+      {
+        "id": 0,
+        "data": "2025-09-15T00:00:00",
+        "funcionarioNome": "MARIO ALVES DE SOUZA CARVALHO",
+        "batidas": [
+          {
+            "nome": "Entrada 1",
+            "valor": "",
+            "valorOriginal": null,
+            "ehRepP": false,
+            "geolocalizacao": null
+          },
+          {
+            "nome": "Saída 1",
+            "valor": "",
+            "valorOriginal": null,
+            "ehRepP": false,
+            "geolocalizacao": null
+          },
+          {
+            "nome": "Entrada 2",
+            "valor": "",
+            "valorOriginal": null,
+            "ehRepP": false,
+            "geolocalizacao": null
+          },
+          {
+            "nome": "Saída 2",
+            "valor": "",
+            "valorOriginal": null,
+            "ehRepP": false,
+            "geolocalizacao": null
+          },
+          {
+            "nome": "Entrada 3",
+            "valor": "",
+            "valorOriginal": null,
+            "ehRepP": false,
+            "geolocalizacao": null
+          },
+          {
+            "nome": "Saída 3",
+            "valor": "",
+            "valorOriginal": null,
+            "ehRepP": false,
+            "geolocalizacao": null
+          }
+        ],
+        "valores": [
+          {
+            "nome": "Folga",
+            "nomeOriginal": "Folga",
+            "valor": ""
+          },
+          {
+            "nome": "Saldo",
+            "nomeOriginal": "Saldo",
+            "valor": ""
+          }
+        ],
+        "saldo": "+00:00",
+        "situacao": 0,
+        "registroPendente": false,
+        "existePeriodoEncerrado": false
+      },
+      {
+        "id": 0,
+        "data": "2025-09-16T00:00:00",
+        "funcionarioNome": "MARIO ALVES DE SOUZA CARVALHO",
+        "batidas": [
+          {
+            "nome": "Entrada 1",
+            "valor": "",
+            "valorOriginal": null,
+            "ehRepP": false,
+            "geolocalizacao": null
+          },
+          {
+            "nome": "Saída 1",
+            "valor": "",
+            "valorOriginal": null,
+            "ehRepP": false,
+            "geolocalizacao": null
+          },
+          {
+            "nome": "Entrada 2",
+            "valor": "",
+            "valorOriginal": null,
+            "ehRepP": false,
+            "geolocalizacao": null
+          },
+          {
+            "nome": "Saída 2",
+            "valor": "",
+            "valorOriginal": null,
+            "ehRepP": false,
+            "geolocalizacao": null
+          },
+          {
+            "nome": "Entrada 3",
+            "valor": "",
+            "valorOriginal": null,
+            "ehRepP": false,
+            "geolocalizacao": null
+          },
+          {
+            "nome": "Saída 3",
+            "valor": "",
+            "valorOriginal": null,
+            "ehRepP": false,
+            "geolocalizacao": null
+          }
+        ],
+        "valores": [
+          {
+            "nome": "Folga",
+            "nomeOriginal": "Folga",
+            "valor": ""
+          },
+          {
+            "nome": "Saldo",
+            "nomeOriginal": "Saldo",
+            "valor": ""
+          }
+        ],
+        "saldo": "+00:00",
+        "situacao": 0,
+        "registroPendente": false,
+        "existePeriodoEncerrado": false
+      },
+      {
+        "id": 0,
+        "data": "2025-09-17T00:00:00",
+        "funcionarioNome": "MARIO ALVES DE SOUZA CARVALHO",
+        "batidas": [
+          {
+            "nome": "Entrada 1",
+            "valor": "",
+            "valorOriginal": null,
+            "ehRepP": false,
+            "geolocalizacao": null
+          },
+          {
+            "nome": "Saída 1",
+            "valor": "",
+            "valorOriginal": null,
+            "ehRepP": false,
+            "geolocalizacao": null
+          },
+          {
+            "nome": "Entrada 2",
+            "valor": "",
+            "valorOriginal": null,
+            "ehRepP": false,
+            "geolocalizacao": null
+          },
+          {
+            "nome": "Saída 2",
+            "valor": "",
+            "valorOriginal": null,
+            "ehRepP": false,
+            "geolocalizacao": null
+          },
+          {
+            "nome": "Entrada 3",
+            "valor": "",
+            "valorOriginal": null,
+            "ehRepP": false,
+            "geolocalizacao": null
+          },
+          {
+            "nome": "Saída 3",
+            "valor": "",
+            "valorOriginal": null,
+            "ehRepP": false,
+            "geolocalizacao": null
+          }
+        ],
+        "valores": [
+          {
+            "nome": "Folga",
+            "nomeOriginal": "Folga",
+            "valor": ""
+          },
+          {
+            "nome": "Saldo",
+            "nomeOriginal": "Saldo",
+            "valor": ""
+          }
+        ],
+        "saldo": "+00:00",
+        "situacao": 0,
+        "registroPendente": false,
+        "existePeriodoEncerrado": false
+      },
+      {
+        "id": 0,
+        "data": "2025-09-18T00:00:00",
+        "funcionarioNome": "MARIO ALVES DE SOUZA CARVALHO",
+        "batidas": [
+          {
+            "nome": "Entrada 1",
+            "valor": "",
+            "valorOriginal": null,
+            "ehRepP": false,
+            "geolocalizacao": null
+          },
+          {
+            "nome": "Saída 1",
+            "valor": "",
+            "valorOriginal": null,
+            "ehRepP": false,
+            "geolocalizacao": null
+          },
+          {
+            "nome": "Entrada 2",
+            "valor": "",
+            "valorOriginal": null,
+            "ehRepP": false,
+            "geolocalizacao": null
+          },
+          {
+            "nome": "Saída 2",
+            "valor": "",
+            "valorOriginal": null,
+            "ehRepP": false,
+            "geolocalizacao": null
+          },
+          {
+            "nome": "Entrada 3",
+            "valor": "",
+            "valorOriginal": null,
+            "ehRepP": false,
+            "geolocalizacao": null
+          },
+          {
+            "nome": "Saída 3",
+            "valor": "",
+            "valorOriginal": null,
+            "ehRepP": false,
+            "geolocalizacao": null
+          }
+        ],
+        "valores": [
+          {
+            "nome": "Folga",
+            "nomeOriginal": "Folga",
+            "valor": ""
+          },
+          {
+            "nome": "Saldo",
+            "nomeOriginal": "Saldo",
+            "valor": ""
+          }
+        ],
+        "saldo": "+00:00",
+        "situacao": 0,
+        "registroPendente": false,
+        "existePeriodoEncerrado": false
+      },
+      {
+        "id": 0,
+        "data": "2025-09-19T00:00:00",
+        "funcionarioNome": "MARIO ALVES DE SOUZA CARVALHO",
+        "batidas": [
+          {
+            "nome": "Entrada 1",
+            "valor": "",
+            "valorOriginal": null,
+            "ehRepP": false,
+            "geolocalizacao": null
+          },
+          {
+            "nome": "Saída 1",
+            "valor": "",
+            "valorOriginal": null,
+            "ehRepP": false,
+            "geolocalizacao": null
+          },
+          {
+            "nome": "Entrada 2",
+            "valor": "",
+            "valorOriginal": null,
+            "ehRepP": false,
+            "geolocalizacao": null
+          },
+          {
+            "nome": "Saída 2",
+            "valor": "",
+            "valorOriginal": null,
+            "ehRepP": false,
+            "geolocalizacao": null
+          },
+          {
+            "nome": "Entrada 3",
+            "valor": "",
+            "valorOriginal": null,
+            "ehRepP": false,
+            "geolocalizacao": null
+          },
+          {
+            "nome": "Saída 3",
+            "valor": "",
+            "valorOriginal": null,
+            "ehRepP": false,
+            "geolocalizacao": null
+          }
+        ],
+        "valores": [
+          {
+            "nome": "Folga",
+            "nomeOriginal": "Folga",
+            "valor": ""
+          },
+          {
+            "nome": "Saldo",
+            "nomeOriginal": "Saldo",
+            "valor": ""
+          }
+        ],
+        "saldo": "+00:00",
+        "situacao": 0,
+        "registroPendente": false,
+        "existePeriodoEncerrado": false
+      },
+      {
+        "id": 0,
+        "data": "2025-09-20T00:00:00",
+        "funcionarioNome": "MARIO ALVES DE SOUZA CARVALHO",
+        "batidas": [
+          {
+            "nome": "Entrada 1",
+            "valor": "",
+            "valorOriginal": null,
+            "ehRepP": false,
+            "geolocalizacao": null
+          },
+          {
+            "nome": "Saída 1",
+            "valor": "",
+            "valorOriginal": null,
+            "ehRepP": false,
+            "geolocalizacao": null
+          },
+          {
+            "nome": "Entrada 2",
+            "valor": "",
+            "valorOriginal": null,
+            "ehRepP": false,
+            "geolocalizacao": null
+          },
+          {
+            "nome": "Saída 2",
+            "valor": "",
+            "valorOriginal": null,
+            "ehRepP": false,
+            "geolocalizacao": null
+          },
+          {
+            "nome": "Entrada 3",
+            "valor": "",
+            "valorOriginal": null,
+            "ehRepP": false,
+            "geolocalizacao": null
+          },
+          {
+            "nome": "Saída 3",
+            "valor": "",
+            "valorOriginal": null,
+            "ehRepP": false,
+            "geolocalizacao": null
+          }
+        ],
+        "valores": [
+          {
+            "nome": "Folga",
+            "nomeOriginal": "Folga",
+            "valor": ""
+          },
+          {
+            "nome": "Saldo",
+            "nomeOriginal": "Saldo",
+            "valor": ""
+          }
+        ],
+        "saldo": "+00:00",
+        "situacao": 0,
+        "registroPendente": false,
+        "existePeriodoEncerrado": false
+      },
+      {
+        "id": 0,
+        "data": "2025-09-21T00:00:00",
+        "funcionarioNome": "MARIO ALVES DE SOUZA CARVALHO",
+        "batidas": [
+          {
+            "nome": "Entrada 1",
+            "valor": "",
+            "valorOriginal": null,
+            "ehRepP": false,
+            "geolocalizacao": null
+          },
+          {
+            "nome": "Saída 1",
+            "valor": "",
+            "valorOriginal": null,
+            "ehRepP": false,
+            "geolocalizacao": null
+          },
+          {
+            "nome": "Entrada 2",
+            "valor": "",
+            "valorOriginal": null,
+            "ehRepP": false,
+            "geolocalizacao": null
+          },
+          {
+            "nome": "Saída 2",
+            "valor": "",
+            "valorOriginal": null,
+            "ehRepP": false,
+            "geolocalizacao": null
+          },
+          {
+            "nome": "Entrada 3",
+            "valor": "",
+            "valorOriginal": null,
+            "ehRepP": false,
+            "geolocalizacao": null
+          },
+          {
+            "nome": "Saída 3",
+            "valor": "",
+            "valorOriginal": null,
+            "ehRepP": false,
+            "geolocalizacao": null
+          }
+        ],
+        "valores": [
+          {
+            "nome": "Folga",
+            "nomeOriginal": "Folga",
+            "valor": ""
+          },
+          {
+            "nome": "Saldo",
+            "nomeOriginal": "Saldo",
+            "valor": ""
+          }
+        ],
+        "saldo": "+00:00",
+        "situacao": 0,
+        "registroPendente": false,
+        "existePeriodoEncerrado": false
+      },
+      {
+        "id": 0,
+        "data": "2025-09-22T00:00:00",
+        "funcionarioNome": "MARIO ALVES DE SOUZA CARVALHO",
+        "batidas": [
+          {
+            "nome": "Entrada 1",
+            "valor": "",
+            "valorOriginal": null,
+            "ehRepP": false,
+            "geolocalizacao": null
+          },
+          {
+            "nome": "Saída 1",
+            "valor": "",
+            "valorOriginal": null,
+            "ehRepP": false,
+            "geolocalizacao": null
+          },
+          {
+            "nome": "Entrada 2",
+            "valor": "",
+            "valorOriginal": null,
+            "ehRepP": false,
+            "geolocalizacao": null
+          },
+          {
+            "nome": "Saída 2",
+            "valor": "",
+            "valorOriginal": null,
+            "ehRepP": false,
+            "geolocalizacao": null
+          },
+          {
+            "nome": "Entrada 3",
+            "valor": "",
+            "valorOriginal": null,
+            "ehRepP": false,
+            "geolocalizacao": null
+          },
+          {
+            "nome": "Saída 3",
+            "valor": "",
+            "valorOriginal": null,
+            "ehRepP": false,
+            "geolocalizacao": null
+          }
+        ],
+        "valores": [
+          {
+            "nome": "Folga",
+            "nomeOriginal": "Folga",
+            "valor": ""
+          },
+          {
+            "nome": "Saldo",
+            "nomeOriginal": "Saldo",
+            "valor": ""
+          }
+        ],
+        "saldo": "+00:00",
+        "situacao": 0,
+        "registroPendente": false,
+        "existePeriodoEncerrado": false
+      },
+      {
+        "id": 0,
+        "data": "2025-09-23T00:00:00",
+        "funcionarioNome": "MARIO ALVES DE SOUZA CARVALHO",
+        "batidas": [
+          {
+            "nome": "Entrada 1",
+            "valor": "",
+            "valorOriginal": null,
+            "ehRepP": false,
+            "geolocalizacao": null
+          },
+          {
+            "nome": "Saída 1",
+            "valor": "",
+            "valorOriginal": null,
+            "ehRepP": false,
+            "geolocalizacao": null
+          },
+          {
+            "nome": "Entrada 2",
+            "valor": "",
+            "valorOriginal": null,
+            "ehRepP": false,
+            "geolocalizacao": null
+          },
+          {
+            "nome": "Saída 2",
+            "valor": "",
+            "valorOriginal": null,
+            "ehRepP": false,
+            "geolocalizacao": null
+          },
+          {
+            "nome": "Entrada 3",
+            "valor": "",
+            "valorOriginal": null,
+            "ehRepP": false,
+            "geolocalizacao": null
+          },
+          {
+            "nome": "Saída 3",
+            "valor": "",
+            "valorOriginal": null,
+            "ehRepP": false,
+            "geolocalizacao": null
+          }
+        ],
+        "valores": [
+          {
+            "nome": "Folga",
+            "nomeOriginal": "Folga",
+            "valor": ""
+          },
+          {
+            "nome": "Saldo",
+            "nomeOriginal": "Saldo",
+            "valor": ""
+          }
+        ],
+        "saldo": "+00:00",
+        "situacao": 0,
+        "registroPendente": false,
+        "existePeriodoEncerrado": false
+      },
+      {
+        "id": 0,
+        "data": "2025-09-24T00:00:00",
+        "funcionarioNome": "MARIO ALVES DE SOUZA CARVALHO",
+        "batidas": [
+          {
+            "nome": "Entrada 1",
+            "valor": "",
+            "valorOriginal": null,
+            "ehRepP": false,
+            "geolocalizacao": null
+          },
+          {
+            "nome": "Saída 1",
+            "valor": "",
+            "valorOriginal": null,
+            "ehRepP": false,
+            "geolocalizacao": null
+          },
+          {
+            "nome": "Entrada 2",
+            "valor": "",
+            "valorOriginal": null,
+            "ehRepP": false,
+            "geolocalizacao": null
+          },
+          {
+            "nome": "Saída 2",
+            "valor": "",
+            "valorOriginal": null,
+            "ehRepP": false,
+            "geolocalizacao": null
+          },
+          {
+            "nome": "Entrada 3",
+            "valor": "",
+            "valorOriginal": null,
+            "ehRepP": false,
+            "geolocalizacao": null
+          },
+          {
+            "nome": "Saída 3",
+            "valor": "",
+            "valorOriginal": null,
+            "ehRepP": false,
+            "geolocalizacao": null
+          }
+        ],
+        "valores": [
+          {
+            "nome": "Folga",
+            "nomeOriginal": "Folga",
+            "valor": ""
+          },
+          {
+            "nome": "Saldo",
+            "nomeOriginal": "Saldo",
+            "valor": ""
+          }
+        ],
+        "saldo": "+00:00",
+        "situacao": 0,
+        "registroPendente": false,
+        "existePeriodoEncerrado": false
+      },
+      {
+        "id": 0,
+        "data": "2025-09-25T00:00:00",
+        "funcionarioNome": "MARIO ALVES DE SOUZA CARVALHO",
+        "batidas": [
+          {
+            "nome": "Entrada 1",
+            "valor": "",
+            "valorOriginal": null,
+            "ehRepP": false,
+            "geolocalizacao": null
+          },
+          {
+            "nome": "Saída 1",
+            "valor": "",
+            "valorOriginal": null,
+            "ehRepP": false,
+            "geolocalizacao": null
+          },
+          {
+            "nome": "Entrada 2",
+            "valor": "",
+            "valorOriginal": null,
+            "ehRepP": false,
+            "geolocalizacao": null
+          },
+          {
+            "nome": "Saída 2",
+            "valor": "",
+            "valorOriginal": null,
+            "ehRepP": false,
+            "geolocalizacao": null
+          },
+          {
+            "nome": "Entrada 3",
+            "valor": "",
+            "valorOriginal": null,
+            "ehRepP": false,
+            "geolocalizacao": null
+          },
+          {
+            "nome": "Saída 3",
+            "valor": "",
+            "valorOriginal": null,
+            "ehRepP": false,
+            "geolocalizacao": null
+          }
+        ],
+        "valores": [
+          {
+            "nome": "Folga",
+            "nomeOriginal": "Folga",
+            "valor": ""
+          },
+          {
+            "nome": "Saldo",
+            "nomeOriginal": "Saldo",
+            "valor": ""
+          }
+        ],
+        "saldo": "+00:00",
+        "situacao": 0,
+        "registroPendente": false,
+        "existePeriodoEncerrado": false
+      },
+      {
+        "id": 0,
+        "data": "2025-09-26T00:00:00",
+        "funcionarioNome": "MARIO ALVES DE SOUZA CARVALHO",
+        "batidas": [
+          {
+            "nome": "Entrada 1",
+            "valor": "",
+            "valorOriginal": null,
+            "ehRepP": false,
+            "geolocalizacao": null
+          },
+          {
+            "nome": "Saída 1",
+            "valor": "",
+            "valorOriginal": null,
+            "ehRepP": false,
+            "geolocalizacao": null
+          },
+          {
+            "nome": "Entrada 2",
+            "valor": "",
+            "valorOriginal": null,
+            "ehRepP": false,
+            "geolocalizacao": null
+          },
+          {
+            "nome": "Saída 2",
+            "valor": "",
+            "valorOriginal": null,
+            "ehRepP": false,
+            "geolocalizacao": null
+          },
+          {
+            "nome": "Entrada 3",
+            "valor": "",
+            "valorOriginal": null,
+            "ehRepP": false,
+            "geolocalizacao": null
+          },
+          {
+            "nome": "Saída 3",
+            "valor": "",
+            "valorOriginal": null,
+            "ehRepP": false,
+            "geolocalizacao": null
+          }
+        ],
+        "valores": [
+          {
+            "nome": "Folga",
+            "nomeOriginal": "Folga",
+            "valor": ""
+          },
+          {
+            "nome": "Saldo",
+            "nomeOriginal": "Saldo",
+            "valor": ""
+          }
+        ],
+        "saldo": "+00:00",
+        "situacao": 0,
+        "registroPendente": false,
+        "existePeriodoEncerrado": false
+      },
+      {
+        "id": 0,
+        "data": "2025-09-27T00:00:00",
+        "funcionarioNome": "MARIO ALVES DE SOUZA CARVALHO",
+        "batidas": [
+          {
+            "nome": "Entrada 1",
+            "valor": "",
+            "valorOriginal": null,
+            "ehRepP": false,
+            "geolocalizacao": null
+          },
+          {
+            "nome": "Saída 1",
+            "valor": "",
+            "valorOriginal": null,
+            "ehRepP": false,
+            "geolocalizacao": null
+          },
+          {
+            "nome": "Entrada 2",
+            "valor": "",
+            "valorOriginal": null,
+            "ehRepP": false,
+            "geolocalizacao": null
+          },
+          {
+            "nome": "Saída 2",
+            "valor": "",
+            "valorOriginal": null,
+            "ehRepP": false,
+            "geolocalizacao": null
+          },
+          {
+            "nome": "Entrada 3",
+            "valor": "",
+            "valorOriginal": null,
+            "ehRepP": false,
+            "geolocalizacao": null
+          },
+          {
+            "nome": "Saída 3",
+            "valor": "",
+            "valorOriginal": null,
+            "ehRepP": false,
+            "geolocalizacao": null
+          }
+        ],
+        "valores": [
+          {
+            "nome": "Folga",
+            "nomeOriginal": "Folga",
+            "valor": ""
+          },
+          {
+            "nome": "Saldo",
+            "nomeOriginal": "Saldo",
+            "valor": ""
+          }
+        ],
+        "saldo": "+00:00",
+        "situacao": 0,
+        "registroPendente": false,
+        "existePeriodoEncerrado": false
+      },
+      {
+        "id": 0,
+        "data": "2025-09-28T00:00:00",
+        "funcionarioNome": "MARIO ALVES DE SOUZA CARVALHO",
+        "batidas": [
+          {
+            "nome": "Entrada 1",
+            "valor": "",
+            "valorOriginal": null,
+            "ehRepP": false,
+            "geolocalizacao": null
+          },
+          {
+            "nome": "Saída 1",
+            "valor": "",
+            "valorOriginal": null,
+            "ehRepP": false,
+            "geolocalizacao": null
+          },
+          {
+            "nome": "Entrada 2",
+            "valor": "",
+            "valorOriginal": null,
+            "ehRepP": false,
+            "geolocalizacao": null
+          },
+          {
+            "nome": "Saída 2",
+            "valor": "",
+            "valorOriginal": null,
+            "ehRepP": false,
+            "geolocalizacao": null
+          },
+          {
+            "nome": "Entrada 3",
+            "valor": "",
+            "valorOriginal": null,
+            "ehRepP": false,
+            "geolocalizacao": null
+          },
+          {
+            "nome": "Saída 3",
+            "valor": "",
+            "valorOriginal": null,
+            "ehRepP": false,
+            "geolocalizacao": null
+          }
+        ],
+        "valores": [
+          {
+            "nome": "Folga",
+            "nomeOriginal": "Folga",
+            "valor": ""
+          },
+          {
+            "nome": "Saldo",
+            "nomeOriginal": "Saldo",
+            "valor": ""
+          }
+        ],
+        "saldo": "+00:00",
+        "situacao": 0,
+        "registroPendente": false,
+        "existePeriodoEncerrado": false
+      },
+      {
+        "id": 0,
+        "data": "2025-09-29T00:00:00",
+        "funcionarioNome": "MARIO ALVES DE SOUZA CARVALHO",
+        "batidas": [
+          {
+            "nome": "Entrada 1",
+            "valor": "",
+            "valorOriginal": null,
+            "ehRepP": false,
+            "geolocalizacao": null
+          },
+          {
+            "nome": "Saída 1",
+            "valor": "",
+            "valorOriginal": null,
+            "ehRepP": false,
+            "geolocalizacao": null
+          },
+          {
+            "nome": "Entrada 2",
+            "valor": "",
+            "valorOriginal": null,
+            "ehRepP": false,
+            "geolocalizacao": null
+          },
+          {
+            "nome": "Saída 2",
+            "valor": "",
+            "valorOriginal": null,
+            "ehRepP": false,
+            "geolocalizacao": null
+          },
+          {
+            "nome": "Entrada 3",
+            "valor": "",
+            "valorOriginal": null,
+            "ehRepP": false,
+            "geolocalizacao": null
+          },
+          {
+            "nome": "Saída 3",
+            "valor": "",
+            "valorOriginal": null,
+            "ehRepP": false,
+            "geolocalizacao": null
+          }
+        ],
+        "valores": [
+          {
+            "nome": "Folga",
+            "nomeOriginal": "Folga",
+            "valor": ""
+          },
+          {
+            "nome": "Saldo",
+            "nomeOriginal": "Saldo",
+            "valor": ""
+          }
+        ],
+        "saldo": "+00:00",
+        "situacao": 0,
+        "registroPendente": false,
+        "existePeriodoEncerrado": false
+      },
+      {
+        "id": 0,
+        "data": "2025-09-30T00:00:00",
+        "funcionarioNome": "MARIO ALVES DE SOUZA CARVALHO",
+        "batidas": [
+          {
+            "nome": "Entrada 1",
+            "valor": "",
+            "valorOriginal": null,
+            "ehRepP": false,
+            "geolocalizacao": null
+          },
+          {
+            "nome": "Saída 1",
+            "valor": "",
+            "valorOriginal": null,
+            "ehRepP": false,
+            "geolocalizacao": null
+          },
+          {
+            "nome": "Entrada 2",
+            "valor": "",
+            "valorOriginal": null,
+            "ehRepP": false,
+            "geolocalizacao": null
+          },
+          {
+            "nome": "Saída 2",
+            "valor": "",
+            "valorOriginal": null,
+            "ehRepP": false,
+            "geolocalizacao": null
+          },
+          {
+            "nome": "Entrada 3",
+            "valor": "",
+            "valorOriginal": null,
+            "ehRepP": false,
+            "geolocalizacao": null
+          },
+          {
+            "nome": "Saída 3",
+            "valor": "",
+            "valorOriginal": null,
+            "ehRepP": false,
+            "geolocalizacao": null
+          }
+        ],
+        "valores": [
+          {
+            "nome": "Folga",
+            "nomeOriginal": "Folga",
+            "valor": ""
+          },
+          {
+            "nome": "Saldo",
+            "nomeOriginal": "Saldo",
+            "valor": ""
+          }
+        ],
+        "saldo": "+00:00",
+        "situacao": 0,
+        "registroPendente": false,
+        "existePeriodoEncerrado": false
+      }
+    ],
+    "justificativas": [
+      {
+        "nomeAbreviado": "AbEleit",
+        "nomeCompleto": "Abono participacao Eleicao"
+      },
+      {
+        "nomeAbreviado": "AcFamMd",
+        "nomeCompleto": "Acompanhamento de Familiar a Medico"
+      },
+      {
+        "nomeAbreviado": "AfMdHR",
+        "nomeCompleto": "Afastamento Medico Horas"
+      },
+      {
+        "nomeAbreviado": "AfMed",
+        "nomeCompleto": "Afastamento Medico Dias(s)"
+      },
+      {
+        "nomeAbreviado": "DoaSng",
+        "nomeCompleto": "Doacao de Sangue"
+      },
+      {
+        "nomeAbreviado": "Esquec",
+        "nomeCompleto": "Esquecimento de Marcacao"
+      },
+      {
+        "nomeAbreviado": "Judicia",
+        "nomeCompleto": "Convocacao Judicial"
+      },
+      {
+        "nomeAbreviado": "LicCasa",
+        "nomeCompleto": "Licenca de Gala (Casamento)"
+      },
+      {
+        "nomeAbreviado": "LMatern",
+        "nomeCompleto": "Licenca Maternidade"
+      },
+      {
+        "nomeAbreviado": "LPatern",
+        "nomeCompleto": "Licenca Paternidade"
+      },
+      {
+        "nomeAbreviado": "MortFam",
+        "nomeCompleto": "Licenca por Nojo (Falecimento na familia)"
+      }
+    ],
+    "opcoesCartaoPonto": {
+      "funcionarioId": 50,
+      "exibirTermosMTB": false,
+      "exibirTotaisNoRodape": false,
+      "exibirMiniaturaDoHorario": true,
+      "exibirEventos": false,
+      "modoPaisagem": false,
+      "exibirJustificativas": false,
+      "exibirJustificativasInclusaoPonto": false,
+      "justificativasPreenchidasUsuario": false,
+      "exibirLegendasJustificativas": false,
+      "exibirAtividades": false,
+      "colunasSelecionadasImpressao": [
+        "Entrada 1",
+        "Saída 1",
+        "Entrada 2",
+        "Saída 2",
+        "Normais",
+        "Faltas",
+        "Extras",
+        "DSR",
+        "Carga"
+      ]
+    }
+  }
+}
