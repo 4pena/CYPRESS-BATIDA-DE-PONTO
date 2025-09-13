@@ -2,8 +2,8 @@ name: Cypress agendado
 
 on:
   schedule:
-    - cron: '10 22 * * *'   # todo dia às 22:10 UTC (19:10 Brasil)
-  workflow_dispatch:        # opcional: permite rodar manualmente
+    - cron: '20 22 * * *'   # todo dia às 22:20 UTC (19:20 Brasil)
+  workflow_dispatch:        # permite rodar manualmente
 
 jobs:
   cypress-run:
@@ -11,15 +11,23 @@ jobs:
 
     steps:
       - name: Checkout code
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Setup Node.js
-        uses: actions/setup-node@v3
+        uses: actions/setup-node@v4
         with:
           node-version: 18
+          cache: 'npm'
 
       - name: Install dependencies
-        run: npm install
+        run: npm ci
 
       - name: Run Cypress test (Relatorio Ponto)
-        run: npx cypress run --spec "cypress/e2e/Relatorio Ponto.cy.js"
+        run: npx cypress run --spec "cypress/e2e/Relatorio\ Ponto.cy.js"
+
+      - name: Upload screenshots on failure
+        uses: actions/upload-artifact@v3
+        if: failure()
+        with:
+          name: cypress-screenshots
+          path: cypress/screenshots
