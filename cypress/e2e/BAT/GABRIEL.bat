@@ -1,1 +1,0 @@
-cd "C:\Zanthus\Gabriel-Testes" && npx cypress run --spec "C:\Zanthus\Gabriel-Testes\cypress\e2e\Ponto\GABRIEL.cy.js" 
