@@ -2,7 +2,7 @@ name: Cypress agendado
 
 on:
   schedule:
-    - cron: '25 22 * * *'   # todo dia às 22:25 UTC (19:25 Brasil)
+    - cron: '32 22 * * *'   # todo dia às 22:32 UTC (19:32 Brasil)
   workflow_dispatch:        # permite rodar manualmente
 
 jobs:
