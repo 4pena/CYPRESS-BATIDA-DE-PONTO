@@ -1,0 +1,25 @@
+name: Cypress agendado
+
+on:
+  schedule:
+    - cron: '7 22 * * *'   # 19:07 horário de Brasília
+  workflow_dispatch:        # opcional: permite rodar manualmente
+
+jobs:
+  cypress-run:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 18
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Run Cypress test (Relatorio Ponto)
+        run: npx cypress run --spec "cypress/e2e/Relatorio Ponto.cy.js"
